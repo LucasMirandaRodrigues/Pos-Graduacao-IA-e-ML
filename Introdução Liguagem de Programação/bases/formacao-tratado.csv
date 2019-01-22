@@ -1,0 +1,221 @@
+perfil_id,inicio,fim,duracao,grau,instituicao,area
+0,2016.0,2016.0,0.0,4.0,Stanford University,Gestão / Negócios
+0,2007.0,2010.0,3.0,3.0,Universidade Federal de Minas Gerais,Economia / Finanças
+1,2015.0,2015.0,0.0,4.0,Centro Universitário Newton Paiva,Gestão / Negócios
+1,2009.0,2012.0,3.0,3.0,Universidade do Estado de Minas Gerais,Design / Arte
+2,2016.0,2019.0,3.0,3.0,Universidade Federal de Minas Gerais,TI
+2,2013.0,2015.0,2.0,2.0,Universidade Federal de Minas Gerais,TI
+3,2014.0,2019.0,5.0,3.0,Centro Federal de Educação Tecnológica de Minas Gerais,Engenharia
+4,2011.0,2016.0,5.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+4,2015.0,2015.0,0.0,3.0,California State University-Long Beach,Engenharia
+5,2011.0,2011.0,0.0,4.0,Universidade FUMEC,Economia / Finanças
+5,2006.0,2009.0,3.0,3.0,Centro Universitário de Belo Horizonte,Comunicação / Publicidade
+6,1992.0,1998.0,6.0,4.0,Universidade Federal de Minas Gerais,TI
+7,2016.0,2019.0,3.0,3.0,FEAD,Gestão / Negócios
+8,2016.0,2016.0,0.0,4.0,Stanford University,Gestão / Negócios
+8,2007.0,2009.0,2.0,3.0,Universidade Federal de Minas Gerais,Economia / Finanças
+8,2007.0,2009.0,2.0,3.0,Universidade FUMEC,Direito
+9,2013.0,2013.0,0.0,4.0,Centro Universitário de Belo Horizonte,Gestão / Negócios
+9,2008.0,2012.0,4.0,3.0,Pontifícia Universidade Católica de Minas Gerais,Economia / Finanças
+10,2008.0,2018.0,10.0,3.0,Pontifícia Universidade Católica de Minas Gerais,Engenharia
+10,2005.0,2007.0,2.0,2.0,COTEMIG,TI
+11,2013.0,2017.0,4.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+11,2002.0,2012.0,10.0,1.0,Colégio Santo Agostinho,Ensino Médio /Técnico
+12,2013.0,2018.0,5.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+12,2002.0,2012.0,10.0,1.0,Colégio Santo Antônio,Não Informado
+13,2015.0,2019.0,4.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+14,2008.0,2014.0,6.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+14,2015.0,2015.0,0.0,4.0,Business Training Company,Gestão / Negócios
+15,1990.0,1994.0,4.0,3.0,Centro Universitário UNA,Gestão / Negócios
+15,1990.0,1994.0,4.0,3.0,Centro Universitário UNA,Gestão / Negócios
+16,2008.0,2013.0,5.0,3.0,Universidade Federal de Viçosa,Economia / Finanças
+16,2013.0,2015.0,2.0,4.0,Fundação Getulio Vargas,Gestão / Negócios
+16,2011.0,2011.0,0.0,3.0,University of West Florida,Economia / Finanças
+17,2013.0,2017.0,4.0,3.0,Universidade do Estado de Minas Gerais,Design / Arte
+17,2014.0,2015.0,1.0,3.0,University of Limerick,Design / Arte
+18,2017.0,2019.0,2.0,4.0,Ibmec,Gestão / Negócios
+18,2013.0,2017.0,4.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+19,2014.0,2018.0,4.0,3.0,Centro Universitário de Belo Horizonte,Engenharia
+20,2015.0,2018.0,3.0,3.0,Pontifícia Universidade Católica de Minas Gerais,Economia / Finanças
+20,2001.0,2014.0,13.0,1.0,Colégio Santo Agostinho,Ensino Médio /Técnico
+21,2014.0,2014.0,0.0,4.0,Loyola University New Orleans,Idioma
+21,2008.0,2012.0,4.0,3.0,Universidade FUMEC,Engenharia
+22,2015.0,2016.0,1.0,4.0,Centro Universitário de Belo Horizonte,Gestão / Negócios
+22,2011.0,2014.0,3.0,3.0,Centro Universitário de Belo Horizonte,Comunicação / Publicidade
+22,2003.0,2005.0,2.0,1.0,Escola Estadual Presidente Tancredo Neves,Ensino Médio /Técnico
+23,2014.0,2019.0,5.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+24,2013.0,2015.0,2.0,4.0,Universidade Federal de Minas Gerais,TI
+24,2006.0,2011.0,5.0,3.0,Universidade Federal de Minas Gerais,TI
+24,2002.0,2004.0,2.0,2.0,Centro Federal de Educação Tecnológica de Minas Gerais,TI
+25,2014.0,2019.0,5.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+26,2014.0,2018.0,4.0,3.0,Pontifícia Universidade Católica de Minas Gerais,Comunicação / Publicidade
+27,2014.0,2018.0,4.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+28,2012.0,2013.0,1.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+28,2010.0,2011.0,1.0,3.0,Universidade do Porto,Comunicação / Publicidade
+28,2006.0,2011.0,5.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+29,2009.0,2011.0,2.0,4.0,Universidade Federal do Amazonas,TI
+29,2001.0,2004.0,3.0,3.0,Universidade Federal do Amazonas,TI
+29,2000.0,2000.0,0.0,1.0,Colegio Militar de Manaus,Não Informado
+30,2014.0,2020.0,6.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+31,2008.0,2012.0,4.0,3.0,Universidade Federal de Juiz de Fora,TI
+31,2006.0,2008.0,2.0,2.0,"Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas",TI
+32,2009.0,2011.0,2.0,3.0,Faculdade Estácio de Sá,Gestão / Negócios
+33,2007.0,2008.0,1.0,4.0,Pontifícia Universidade Católica de Minas Gerais,TI
+33,1994.0,1998.0,4.0,3.0,Escola de Engenharia Kennedy,Engenharia
+33,1991.0,1993.0,2.0,2.0,Colégio Brasileiro,TI
+34,2010.0,2013.0,3.0,4.0,Universidade Federal de Pernambuco,TI
+34,2004.0,2008.0,4.0,3.0,Universidade Federal de Pernambuco,Não Informado
+34,Não Informado,Não Informado,Não Informado,0.0,andre guedes,Não Informado
+35,2005.0,2009.0,4.0,4.0,Universidade Federal de Minas Gerais,TI
+35,2001.0,2004.0,3.0,3.0,Universidade Federal de Minas Gerais,TI
+36,2014.0,2018.0,4.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+36,2016.0,2016.0,0.0,4.0,Hogeschool van Amsterdam,Economia / Finanças
+36,2015.0,2016.0,1.0,4.0,Hogeschool van Amsterdam,Gestão / Negócios
+37,2008.0,2012.0,4.0,3.0,COTEMIG,TI
+38,2011.0,2014.0,3.0,3.0,Faculdade Católica Salesiana do Espírito Santo,TI
+39,2016.0,2017.0,1.0,4.0,Pontifícia Universidade Católica de Minas Gerais,TI
+39,2013.0,2013.0,0.0,4.0,Centro Universitário UNA,Gestão / Negócios
+39,2012.0,2012.0,0.0,4.0,IGA - Instituto gastronomico argentino,Gastronomia
+40,2015.0,2016.0,1.0,4.0,Pontifícia Universidade Católica de Minas Gerais,TI
+40,2009.0,2014.0,5.0,3.0,Universidade Federal de Minas Gerais,TI
+41,2013.0,2017.0,4.0,3.0,Fundação Getulio Vargas,Gestão / Negócios
+41,2015.0,2015.0,0.0,2.0,Bridge Business College,Comunicação / Publicidade
+42,2012.0,2016.0,4.0,3.0,Centro Federal de Educação Tecnológica de Minas Gerais,Gestão / Negócios
+42,2009.0,2012.0,3.0,3.0,Centro Federal de Educação Tecnológica de Minas Gerais,Turismo
+42,2017.0,2017.0,0.0,4.0,Pontifícia Universidade Católica de Minas Gerais,Comunicação / Publicidade
+43,2010.0,2014.0,4.0,3.0,Universidade Federal de Alfenas,Economia / Finanças
+43,2010.0,2014.0,4.0,3.0,Universidade Federal de Alfenas,Economia / Finanças
+44,2006.0,2009.0,3.0,2.0,Faculdade Pitágoras,TI
+45,2015.0,2015.0,0.0,3.0,Universidade Federal do Amazonas,TI
+45,2011.0,2013.0,2.0,2.0,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",TI
+46,2012.0,2017.0,5.0,3.0,Universidade Federal do Amazonas,Engenharia
+46,2014.0,2015.0,1.0,3.0,Kent State University,TI
+46,2015.0,2015.0,0.0,3.0,The Catholic University of America,TI
+47,2011.0,2016.0,5.0,3.0,Universidade Federal de Minas Gerais,Psicologia
+47,1998.0,2009.0,11.0,1.0,Colégio Santo Antônio,Não Informado
+48,2007.0,2011.0,4.0,3.0,Universidade Federal de Santa Catarina,Psicologia
+48,2016.0,2017.0,1.0,4.0,UNINTER Centro Universitário Internacional,Direito
+48,2013.0,2015.0,2.0,4.0,Escola Brasileira de Psicanálise,Psicologia
+49,2008.0,2011.0,3.0,4.0,Pontifícia Universidade Católica de Minas Gerais,TI
+49,2002.0,2005.0,3.0,3.0,Instituto de Estudos Superiores da Amazônia,Engenharia
+50,2012.0,2013.0,1.0,4.0,Fundação Getulio Vargas,Gestão / Negócios
+50,2006.0,2011.0,5.0,3.0,Universidade Federal Fluminense,Gestão / Negócios
+51,2006.0,2010.0,4.0,3.0,Universidade Federal de Minas Gerais,Economia / Finanças
+51,Não Informado,Não Informado,Não Informado,1.0,Marista,Não Informado
+52,2011.0,2015.0,4.0,3.0,Pontifícia Universidade Católica de Minas Gerais,TI
+52,2006.0,2008.0,2.0,2.0,COTEMIG,TI
+52,2006.0,2006.0,0.0,2.0,ETFG,Não Informado
+53,2013.0,2017.0,4.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+54,2008.0,2011.0,3.0,3.0,Universidade Vale do Rio Doce,Gestão / Negócios
+55,2014.0,2017.0,3.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+55,1998.0,2012.0,14.0,1.0,Colégio Piracicabano,Não Informado
+56,2015.0,2018.0,3.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+56,2011.0,2013.0,2.0,2.0,Colégio Técnico Industrial - Prof. Isaac Portal Roldán,TI
+57,2012.0,2015.0,3.0,3.0,COTEMIG,TI
+58,2016.0,2020.0,4.0,3.0,Centro Universitário Newton Paiva,Psicologia
+58,2015.0,2016.0,1.0,3.0,Universidade Salgado de Oliveira,Psicologia
+58,2012.0,2013.0,1.0,2.0,SENAC-MG,TI
+59,2015.0,2019.0,4.0,3.0,Universidade Federal de Minas Gerais,Economia / Finanças
+59,2002.0,2014.0,12.0,1.0,Colégio Santo Agostinho,Não Informado
+60,2007.0,2008.0,1.0,3.0,Pontifícia Universidade Católica de Minas Gerais,TI
+60,2000.0,2005.0,5.0,3.0,Universidade Federal de Minas Gerais,Design / Arte
+61,2010.0,2016.0,6.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+61,2015.0,2016.0,1.0,3.0,University of Connecticut,Engenharia
+62,2015.0,2016.0,1.0,4.0,Pontifícia Universidade Católica de Minas Gerais,Comunicação / Publicidade
+62,2011.0,2015.0,4.0,3.0,Pontifícia Universidade Católica de Minas Gerais,Comunicação / Publicidade
+63,2017.0,2021.0,4.0,3.0,Faculdade Estácio de Sá,TI
+63,2014.0,2014.0,0.0,3.0,Caldwell Community College and Technical Institute,Gestão / Negócios
+63,2013.0,2014.0,1.0,4.0,ÚNICA - Escola de Negócios,Engenharia
+64,2008.0,2012.0,4.0,3.0,Universidade Federal de Minas Gerais,História
+64,2013.0,2014.0,1.0,4.0,SENAC-MG,Gestão / Negócios
+65,2016.0,2017.0,1.0,4.0,Pontifícia Universidade Católica de Minas Gerais,Gestão / Negócios
+65,2006.0,2011.0,5.0,3.0,Universidade Federal de Juiz de Fora,TI
+66,2010.0,2011.0,1.0,4.0,Universidade Cândido Mendes,Economia / Finanças
+66,2005.0,2009.0,4.0,3.0,Centro Universitário de Belo Horizonte,Comunicação / Publicidade
+67,2015.0,2016.0,1.0,4.0,Pontifícia Universidade Católica de Minas Gerais,Comunicação / Publicidade
+67,2011.0,2014.0,3.0,3.0,Centro Universitário de Belo Horizonte,Comunicação / Publicidade
+68,2008.0,2011.0,3.0,3.0,Fundação Getulio Vargas,Economia / Finanças
+68,2002.0,2007.0,5.0,1.0,Loyola,Não Informado
+69,2007.0,2010.0,3.0,3.0,Universidade Paulista,Comunicação / Publicidade
+70,2015.0,2019.0,4.0,3.0,Centro Universitário UNA,Gestão / Negócios
+70,2013.0,2014.0,1.0,2.0,Polimig,Engenharia
+71,2015.0,2019.0,4.0,3.0,Universidade Federal de Minas Gerais,Não Informado
+71,2015.0,2019.0,4.0,3.0,Universidade Federal de Minas Gerais,Comunicação / Publicidade
+72,2004.0,2009.0,5.0,4.0,Faculdade de Campinas,Comunicação / Publicidade
+72,2009.0,2009.0,0.0,3.0,Academia Internacional de Cinema,Cinema
+73,2013.0,2016.0,3.0,3.0,Universidade Federal do Amazonas,TI
+74,2006.0,2010.0,4.0,3.0,Pontifícia Universidade Católica de São Paulo,Gestão / Negócios
+74,Não Informado,Não Informado,Não Informado,0.0,Não Informado,Não Informado
+75,2000.0,2003.0,3.0,3.0,Universidade FUMEC,Gestão / Negócios
+75,2008.0,2008.0,0.0,4.0,Faculdade Pitágoras,Gestão / Negócios
+76,2016.0,2017.0,1.0,4.0,"Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais",Gestão / Negócios
+76,2013.0,2015.0,2.0,3.0,Universidade Vale do Rio Verde,Gestão / Negócios
+77,2013.0,2015.0,2.0,4.0,Universidade de Santo Amaro,Comunicação / Publicidade
+77,2014.0,2014.0,0.0,2.0,Gawa,Comunicação / Publicidade
+77,2014.0,2014.0,0.0,2.0,Gawa,Comunicação / Publicidade
+78,2004.0,2008.0,4.0,3.0,Universidade Presbiteriana Mackenzie,Comunicação / Publicidade
+79,2011.0,2013.0,2.0,4.0,Universidade Federal do Amazonas,TI
+79,2006.0,2010.0,4.0,3.0,Faculdade FUCAPI,TI
+80,2008.0,2013.0,5.0,3.0,Universidade Federal do Amazonas,Engenharia
+81,2012.0,2013.0,1.0,4.0,Universidade Federal de Juiz de Fora,TI
+81,2008.0,2013.0,5.0,3.0,Universidade Federal de Juiz de Fora,Gestão / Negócios
+81,2010.0,2011.0,1.0,3.0,Universidade da Beira Interior,Gestão / Negócios
+82,2013.0,2017.0,4.0,3.0,Universidade Federal do Amazonas,TI
+82,2010.0,2013.0,3.0,2.0,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",TI
+83,2013.0,2016.0,3.0,3.0,Universidade Federal do Amazonas,TI
+83,2010.0,2012.0,2.0,2.0,Fundação Nokia de Ensino,TI
+84,2008.0,2012.0,4.0,3.0,Universidade do Estado do Amazonas - UEA,Engenharia
+85,2014.0,2019.0,5.0,3.0,Faculdade FUCAPI,Engenharia
+86,2014.0,2016.0,2.0,4.0,Universidade Federal do Amazonas,TI
+86,2008.0,2013.0,5.0,2.0,Amazonas State University - UEA,TI
+87,2011.0,2016.0,5.0,3.0,Universidade Federal do Amazonas,Engenharia
+87,2014.0,2015.0,1.0,3.0,University of Stuttgart,TI
+87,2014.0,2015.0,1.0,3.0,University of Stuttgart,TI
+88,2013.0,2017.0,4.0,3.0,Universidade Federal do Amazonas,TI
+88,2010.0,2012.0,2.0,2.0,Fundação Nokia de Ensino,TI
+89,2017.0,2019.0,2.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+89,2011.0,2016.0,5.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+90,2002.0,2007.0,5.0,3.0,Pontifícia Universidade Católica de Minas Gerais,TI
+90,1997.0,1999.0,2.0,2.0,Colégio Brasileiro,TI
+90,2012.0,2012.0,0.0,4.0,UNICAMP - Universidade Estadual de Campinas,Engenharia
+91,2014.0,2014.0,0.0,4.0,Centro Universitário de Belo Horizonte,Comunicação / Publicidade
+91,2009.0,2013.0,4.0,3.0,Pontifícia Universidade Católica de Minas Gerais,Comunicação / Publicidade
+92,2011.0,2015.0,4.0,3.0,Pontifícia Universidade Católica de Minas Gerais,Comunicação / Publicidade
+93,Não Informado,Não Informado,Não Informado,3.0,Faculdade Estácio de Sá,TI
+93,Não Informado,Não Informado,Não Informado,3.0,Universidade de Alfenas,TI
+94,2013.0,2014.0,1.0,4.0,FIA - Fundação Instituto de Administração,Gestão / Negócios
+94,2006.0,2010.0,4.0,3.0,Pontifícia Universidade Católica de São Paulo,Gestão / Negócios
+94,2012.0,2012.0,0.0,4.0,Ecommerce School,Comunicação / Publicidade
+95,2009.0,2014.0,5.0,3.0,Universidade Federal de Minas Gerais,Engenharia
+95,2011.0,2012.0,1.0,3.0,Universidade do Porto,Engenharia
+95,2006.0,2008.0,2.0,1.0,Colégio Santo Antônio,Ensino Médio / Técnico
+96,2008.0,2011.0,3.0,3.0,Pontifícia Universidade Católica de São Paulo,Economia / Finanças
+96,2003.0,2008.0,5.0,3.0,Pontifícia Universidade Católica de São Paulo,Engenharia
+96,Não Informado,Não Informado,Não Informado,1.0,Lourenço Castanho,Não Informado
+97,2017.0,2017.0,0.0,4.0,Udacity Brasil,Comunicação / Publicidade
+97,2013.0,2015.0,2.0,3.0,Universidade do Grande ABC,Gestão / Negócios
+97,2005.0,2009.0,4.0,3.0,Centro Universitário da Grande Dourados,Comunicação / Publicidade
+98,2013.0,2017.0,4.0,3.0,Centro Federal de Educação Tecnológica de Minas Gerais,Engenharia
+98,2015.0,2015.0,0.0,4.0,Université catholique de Louvain,Engenharia
+99,2006.0,2008.0,2.0,4.0,Cedepe Business School,Economia / Finanças
+99,2002.0,2003.0,1.0,4.0,Esurp - Escola Superior de Relações Públicas,Comunicação / Publicidade
+99,1997.0,2001.0,4.0,3.0,Esurp - Escola Superior de Relações Públicas,Comunicação / Publicidade
+100,2016.0,2017.0,1.0,4.0,Universidade Cruzeiro do Sul,Comunicação / Publicidade
+100,2006.0,2008.0,2.0,3.0,Universidade Cruzeiro do Sul,TI
+101,2018.0,2018.0,0.0,3.0,Universidade Paulista,Psicologia
+101,Não Informado,Não Informado,Não Informado,3.0,Universidade Paulista,Não Informado
+102,2009.0,2012.0,3.0,3.0,Anhanguera Educacional,Gestão / Negócios
+103,2011.0,2014.0,3.0,3.0,Universidade Católica de Brasília,Gestão / Negócios
+103,2015.0,2016.0,1.0,4.0,UNICEUB - Brasília,Comunicação / Publicidade
+104,2016.0,2017.0,1.0,4.0,Nova School of Business and Economics,Comunicação / Publicidade
+104,2015.0,2016.0,1.0,4.0,Insper,Comunicação / Publicidade
+104,2006.0,2011.0,5.0,3.0,Universidade Presbiteriana Mackenzie,Engenharia
+105,2006.0,2010.0,4.0,3.0,Faculdade FUCAPI,TI
+106,2015.0,2017.0,2.0,4.0,Universidade Anhembi Morumbi,Gestão / Negócios
+107,2016.0,2020.0,4.0,3.0,Centro Universitário Nove de Julho,Gestão / Negócios
+108,1991.0,2000.0,9.0,3.0,Faculdade de direito UFPR,Direito
+109,2011.0,2012.0,1.0,4.0,Marketing Digital- Claudio Torres,Comunicação / Publicidade
+109,2009.0,2011.0,2.0,3.0,FTEC,TI
+109,1999.0,2006.0,7.0,3.0,PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul,Comunicação / Publicidade
+110,2014.0,2018.0,4.0,3.0,Universidade Federal do Amazonas,TI
+110,2012.0,2014.0,2.0,2.0,"Instituto Federal de Educação, Ciência e Tecnologia do Amazonas",TI

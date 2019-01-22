@@ -1,0 +1,2178 @@
+perfil_id,endorsement_count,name,agrupamento
+0,+ de 99,Empresas startups,Empreendedorismo
+0,+ de 99,Empreendedorismo,Empreendedorismo
+0,97,Start-ups,Empreendedorismo
+0,73,Entrepreneurship,Empreendedorismo
+0,75,New Business Development,Negócios / Marketing
+0,67,Affiliate Marketing,Negócios / Marketing
+0,67,Startup Development,TI / Desenvolvedor
+0,64,Online Advertising,Negócios / Marketing
+0,71,Business Strategy,Negócios / Marketing
+0,68,Comércio eletrônico,Negócios / Marketing
+0,28,Growth Hacking,Negócios / Marketing
+0,40,Affiliate Networks,Negócios / Marketing
+0,36,SEO,TI / Desenvolvedor
+0,42,Online Lead Generation,TI / Desenvolvedor
+0,44,Business Intelligence,Negócios / Marketing
+0,28,Stock Market Analysis,Negócios / Marketing
+0,31,Trade Finance,Negócios / Marketing
+0,37,Finance,Negócios / Marketing
+0,31,Public Speaking,Oratória / Escrita
+0,37,Google Analytics,Informática / Softwares
+0,22,Adobe Fireworks,Informática / Softwares
+0,24,Google Webmaster Tools,Informática / Softwares
+0,37,Desenvolvimento de novos negócios,Negócios / Marketing
+0,49,Marketing afiliado,Negócios / Marketing
+0,65,Publicidade online,Negócios / Marketing
+0,36,Marketing digital,Negócios / Marketing
+0,34,Marketing online,Negócios / Marketing
+0,25,Marketing,Negócios / Marketing
+0,22,Planejamento estratégico,Gestão / Administração
+0,25,SEO (Otimização de motores de busca),TI / Desenvolvedor
+0,22,Gestão,Gestão / Administração
+0,31,Estratégias de marketing,Negócios / Marketing
+0,72,Estratégia empresarial,Gestão / Administração
+1,45,Planejamento estratégico,Gestão / Administração
+1,36,Gestão,Gestão / Administração
+1,34,Gestão de projetos,Gestão / Administração
+1,24,Liderança de equipe,Comportamento / Social
+1,21,Estratégia empresarial,Gestão / Administração
+1,18,Empreendedorismo,Empreendedorismo
+1,15,Empresas startups,Empreendedorismo
+1,12,Strategic Planning,Gestão / Administração
+1,10,Design de interiores,Design / Artes
+1,10,Start-ups,Empreendedorismo
+1,10,Planejamento empresarial,Gestão / Administração
+1,8,Interior Design,Design / Artes
+1,8,Business Innovation,Negócios / Marketing
+1,8,Sistemas operacionais,TI / Desenvolvedor
+1,6,Management,Gestão / Administração
+1,6,Business Planning,Negócios / Marketing
+1,4,Pesquisa,Negócios / Marketing
+1,4,Estratégias de marketing,Negócios / Marketing
+1,4,Marketing Strategy,Negócios / Marketing
+1,4,Operating Systems,TI / Desenvolvedor
+1,4,Planejamento de projetos,Gestão / Administração
+1,4,Entrepreneurship,Empreendedorismo
+1,3,Team Leadership,Gestão / Administração
+1,2,Research,Negócios / Marketing
+1,2,Project Planning,Gestão / Administração
+1,Não Informado,Desenvolvimento de produtos,TI / Desenvolvedor
+1,11,Innovation,Empreendedorismo
+1,1,Interior Lighting,Design / Artes
+2,8,JavaScript,Linguagem de Programação
+2,1,TypeScript,Linguagem de Programação
+2,1,Angular,Informática / Softwares
+2,2,Node.js,Informática / Softwares
+2,3,Git,Informática / Softwares
+2,Não Informado,AWS,Informática / Softwares
+2,7,HTML5,Linguagem de Programação
+2,1,React.js,Linguagem de Programação
+2,1,Redux,Linguagem de Programação
+2,6,AngularJS,Informática / Softwares
+2,6,SASS,Linguagem de Programação
+2,6,CSS,Informática / Softwares
+2,5,JQuery,Informática / Softwares
+2,3,Material Design,Design / Artes
+2,4,Bootstrap,Informática / Softwares
+2,3,Responsive Web Design,TI / Desenvolvedor
+2,3,HTML,Linguagem de Programação
+2,2,User Experience,TI / Desenvolvedor
+2,5,Web Development,TI / Desenvolvedor
+2,5,PHP,Linguagem de Programação
+2,2,WordPress,Informática / Softwares
+2,2,OOP,Linguagem de Programação
+2,2,Scrum,Gestão / Administração
+2,1,Databases,TI / Desenvolvedor
+2,2,UML,Linguagem de Programação
+2,3,MySQL,Informática / Softwares
+2,2,MongoDB,Informática / Softwares
+2,2,Linux,Informática / Softwares
+2,2,Testing,TI / Desenvolvedor
+2,2,Jasmine Framework,Informática / Softwares
+2,Não Informado,Karma,Informática / Softwares
+2,2,Google Analytics,Informática / Softwares
+2,2,SEO,TI / Desenvolvedor
+2,2,Subversion,Informática / Softwares
+2,2,AMP,Informática / Softwares
+2,2,RequireJS,Informática / Softwares
+2,2,Software Development,TI / Desenvolvedor
+2,2,SQL,Linguagem de Programação
+2,2,Socket.io,Linguagem de Programação
+2,2,Gulp.js,Informática / Softwares
+2,2,GruntJS,Informática / Softwares
+2,1,Ionic Framework,Informática / Softwares
+2,1,Apache Cordova,Informática / Softwares
+2,2,Algorithms,Linguagem de Programação
+2,1,PhoneGap,Informática / Softwares
+2,Não Informado,Mustache,Informática / Softwares
+2,Não Informado,Handlebars.js,Informática / Softwares
+3,2,Net Promoter Score,TI / Desenvolvedor
+3,3,SQL,Linguagem de Programação
+3,1,Marketing digital,Negócios / Marketing
+3,1,Planejamento estratégico,Gestão / Administração
+3,1,Empreendedorismo,Empreendedorismo
+3,1,Microsoft Office,Informática / Softwares
+3,1,AutoCAD,Linguagem de Programação
+3,2,Engenharia,Engenharia
+3,2,Atendimento ao Cliente,Negócios / Marketing
+4,13,Microsoft Office,Informática / Softwares
+4,13,English,Idiomas
+4,12,Public Speaking,Oratória / Escrita
+4,11,Strategic Planning,Gestão / Administração
+4,11,Project Management,Gestão / Administração
+4,9,Microsoft Word,Informática / Softwares
+4,9,Social Media,Negócios / Marketing
+4,8,PowerPoint,Informática / Softwares
+4,8,Management,Gestão / Administração
+4,8,Leadership,Gestão / Administração
+4,1,Scilab,Informática / Softwares
+5,10,Business Strategy,Negócios / Marketing
+5,9,Análise financeira,Negócios / Marketing
+5,9,Estratégia empresarial,Gestão / Administração
+5,9,Atendimento ao Cliente,Negócios / Marketing
+5,8,Serviços bancários,Negócios / Marketing
+5,8,Gestão de riscos,Negócios / Marketing
+5,7,Microsoft Office,Informática / Softwares
+5,7,Planejamento empresarial,Gestão / Administração
+5,7,Planejamento estratégico,Gestão / Administração
+5,6,Project Management,Gestão / Administração
+5,6,Strategic Planning,Gestão / Administração
+5,5,Gestão de carteiras,Gestão / Administração
+5,5,Liderança de equipe,Comportamento / Social
+5,5,Liderança,Comportamento / Social
+5,5,Marketing,Negócios / Marketing
+5,4,Marketing digital,Negócios / Marketing
+5,4,Estratégias de marketing,Negócios / Marketing
+5,3,Mercado de crédito,Negócios / Marketing
+5,3,Negociação,Negócios / Marketing
+5,3,Gestão de projetos,Gestão / Administração
+5,2,Microsoft Excel,Informática / Softwares
+5,2,Gestão,Gestão / Administração
+5,Não Informado,Marketing afiliado,Negócios / Marketing
+5,Não Informado,Redes afiliadas,Linguagem de Programação
+5,Não Informado,Marketing online,Negócios / Marketing
+5,Não Informado,Experiência em marketing digital,Negócios / Marketing
+5,Não Informado,WebTrends Analytics,Informática / Softwares
+5,Não Informado,Gestão comercial,Gestão / Administração
+5,Não Informado,Comércio eletrônico,Negócios / Marketing
+6,23,Software Engineering,Engenharia
+6,18,Software Development,TI / Desenvolvedor
+6,11,MapReduce,Linguagem de Programação
+6,10,Distributed Systems,TI / Desenvolvedor
+6,10,C++,Linguagem de Programação
+6,9,Algorithms,Linguagem de Programação
+6,8,Java,Linguagem de Programação
+6,8,Python,Linguagem de Programação
+6,7,Linux,Informática / Softwares
+6,3,Scrum,Gestão / Administração
+6,3,C,Linguagem de Programação
+6,3,Git,Informática / Softwares
+6,2,Software Design,TI / Desenvolvedor
+6,2,Microsoft Office,Informática / Softwares
+6,2,Unix,Informática / Softwares
+6,1,Customer Service,Negócios / Marketing
+6,1,Computer Science,TI / Desenvolvedor
+6,1,Microsoft Word,Informática / Softwares
+6,1,Subversion,Informática / Softwares
+6,1,PowerPoint,Informática / Softwares
+6,1,Scalability,TI / Desenvolvedor
+6,1,Microsoft Excel,Informática / Softwares
+6,Não Informado,Information Retrieval,TI / Desenvolvedor
+7,Não Informado,Microsoft Office,Informática / Softwares
+7,Não Informado,Microsoft Excel,Informática / Softwares
+7,Não Informado,Microsoft Word,Informática / Softwares
+7,Não Informado,Microsoft PowerPoint,Informática / Softwares
+7,Não Informado,Oratória,Oratória / Escrita
+8,80,Estratégia empresarial,Gestão / Administração
+8,73,Empreendedorismo,Empreendedorismo
+8,57,Business Strategy,Negócios / Marketing
+8,52,Comércio eletrônico,Negócios / Marketing
+8,50,E-commerce,Negócios / Marketing
+8,47,Publicidade online,Negócios / Marketing
+8,41,New Business Development,Negócios / Marketing
+8,41,Business Planning,Negócios / Marketing
+8,39,Marketing Strategy,Negócios / Marketing
+8,38,Online Advertising,Negócios / Marketing
+8,35,Estratégias de marketing,Negócios / Marketing
+8,28,Empresas startups,Empreendedorismo
+8,27,Affiliate Marketing,Negócios / Marketing
+8,25,Affiliate Networks,Negócios / Marketing
+8,25,Online Lead Generation,TI / Desenvolvedor
+8,23,Entrepreneurship,Empreendedorismo
+8,22,Business Intelligence,Negócios / Marketing
+8,22,Start-ups,Empreendedorismo
+8,22,Planejamento empresarial,Gestão / Administração
+8,20,Angel Investing,Negócios / Marketing
+8,19,Financial Analysis,Negócios / Marketing
+8,18,Commerce,Negócios / Marketing
+8,17,Start-up Environment,Empreendedorismo
+8,17,Desenvolvimento de novos negócios,Negócios / Marketing
+8,17,Planejamento estratégico,Gestão / Administração
+8,16,Business Valuation,Negócios / Marketing
+8,16,Startup Development,TI / Desenvolvedor
+8,16,Startup Marketing,Negócios / Marketing
+8,16,SEO (Otimização de motores de busca),TI / Desenvolvedor
+8,15,Trade Finance,Negócios / Marketing
+8,15,Estratégia,Gestão / Administração
+8,14,SEO,TI / Desenvolvedor
+8,14,Fusões e aquisições,Negócios / Marketing
+8,14,Marketing digital,Negócios / Marketing
+8,13,Stock Market Analysis,Negócios / Marketing
+8,13,Marketing online,Negócios / Marketing
+8,12,M&A experience,Negócios / Marketing
+8,12,Stock Exchange,Negócios / Marketing
+8,12,Análise financeira,Negócios / Marketing
+8,12,Digital Marketing,Negócios / Marketing
+8,12,Online Marketing,Negócios / Marketing
+8,11,Strategic Planning,Gestão / Administração
+8,10,Capital de risco,Negócios / Marketing
+8,9,Business Development,Negócios / Marketing
+8,9,Mergers & Acquisitions,Negócios / Marketing
+8,8,Mergers,Negócios / Marketing
+8,8,Venture Capital,Negócios / Marketing
+8,15,Brazilian Laws,Direito
+8,12,Internet Entrepreneur,Empreendedorismo
+8,12,Innovation,Empreendedorismo
+9,21,Gestão de contas,Gestão / Administração
+9,17,Análise de dados,TI / Desenvolvedor
+9,23,Comércio eletrônico,Negócios / Marketing
+9,16,Marketing afiliado,Negócios / Marketing
+9,17,Google Analytics,Informática / Softwares
+9,18,Marketing online,Negócios / Marketing
+9,20,Mídias sociais,Negócios / Marketing
+9,15,Marketing por e-mail,Negócios / Marketing
+9,9,Resolução de problemas,Gestão / Administração
+9,13,E-commerce SEO,Negócios / Marketing
+9,9,Comunicações de marketing,Negócios / Marketing
+9,5,Banco de dados,TI / Desenvolvedor
+9,8,Negociação de contratos,Negócios / Marketing
+9,6,Implementação de pixel,TI / Desenvolvedor
+9,6,Soluções criativas,Gestão / Administração
+9,7,Atendimento ao Cliente,Negócios / Marketing
+9,13,Microsoft Excel,Informática / Softwares
+9,7,Afiliação,Negócios / Marketing
+9,14,Gestão,Gestão / Administração
+9,4,Investimentos,Negócios / Marketing
+9,11,Microsoft Word,Informática / Softwares
+9,15,Marketing social,Negócios / Marketing
+9,6,Desenvolvimento de novos negócios,Negócios / Marketing
+9,6,Social Media,Negócios / Marketing
+9,4,Revisão de texto,Oratória / Escrita
+9,2,Análise de riscos,Negócios / Marketing
+9,1,Satisfação do cliente,Negócios / Marketing
+9,Não Informado,Seguros,Negócios / Marketing
+9,Não Informado,Talento vocal,Design / Artes
+9,Não Informado,Edição de vídeo,Design / Artes
+9,1,Edição de imagens,Design / Artes
+9,Não Informado,Edição de áudio,Design / Artes
+9,4,Management,Gestão / Administração
+9,3,Strategic Planning,Gestão / Administração
+9,1,E-commerce,Negócios / Marketing
+9,1,Social Media Marketing,Negócios / Marketing
+9,4,Marketing Strategy,Negócios / Marketing
+9,4,Marketing,Negócios / Marketing
+9,2,Digital Marketing,Negócios / Marketing
+9,1,Customer Service,Negócios / Marketing
+9,1,Microsoft PowerPoint,Informática / Softwares
+9,1,New Business Development,Negócios / Marketing
+9,Não Informado,Gestão de pessoal,Gestão / Administração
+9,3,Planejamento estratégico,Gestão / Administração
+9,4,Estratégias de marketing,Negócios / Marketing
+9,3,Marketing digital,Negócios / Marketing
+9,2,Business Development,Negócios / Marketing
+10,10,Marketing digital,Negócios / Marketing
+10,9,Inglês,Idiomas
+10,9,Melhoria de processos empresariais,Gestão / Administração
+10,8,Seis Sigma,Gestão / Administração
+10,8,Gestão,Gestão / Administração
+10,8,Management,Gestão / Administração
+10,7,E-commerce SEO,Negócios / Marketing
+10,6,JavaScript,Linguagem de Programação
+10,6,Melhoria de processos,Gestão / Administração
+10,5,Gestão Lean,Gestão / Administração
+10,5,Business Development,Negócios / Marketing
+10,3,MySQL,Informática / Softwares
+10,3,Pensamento Lean,Gestão / Administração
+10,3,Ferramentas lean,Gestão / Administração
+10,2,PHP,Linguagem de Programação
+10,1,Planejamento estratégico,Gestão / Administração
+10,1,Desenvolvimento empresarial,Gestão / Administração
+10,1,Estratégia empresarial,Gestão / Administração
+11,28,Publicidade,Negócios / Marketing
+11,29,Estratégias de marketing,Negócios / Marketing
+11,9,Affiliation,Negócios / Marketing
+11,15,Marketing Communications,Negócios / Marketing
+11,13,Marketing digital,Negócios / Marketing
+11,25,Mídias sociais,Negócios / Marketing
+11,5,E-commerce SEO,Negócios / Marketing
+11,20,Relações públicas,Negócios / Marketing
+11,9,Estratégia digital,Gestão / Administração
+11,12,Publicidade online,Negócios / Marketing
+11,3,Brand Development,Gestão / Administração
+11,6,Marketing por e-mail,Negócios / Marketing
+11,24,Marketing,Negócios / Marketing
+11,5,Liderança,Comportamento / Social
+11,4,Marketing direto,Negócios / Marketing
+11,3,Melhoria de processos,Gestão / Administração
+11,4,Planejamento estratégico,Gestão / Administração
+11,1,Digital Strategy,Gestão / Administração
+11,8,Microsoft Excel,Informática / Softwares
+11,8,Marketing Strategy,Negócios / Marketing
+12,1,E-commerce global,Negócios / Marketing
+12,1,Sales Tracking,Negócios / Marketing
+12,1,SQL,Linguagem de Programação
+12,8,Engenharia de produção,Engenharia
+12,17,Gestão de projetos,Gestão / Administração
+12,8,Gestão empresarial,Gestão / Administração
+12,5,Gestão por indicadores,Gestão / Administração
+12,3,Gerenciamento de processos,Gestão / Administração
+12,9,Microsoft Excel,Informática / Softwares
+12,9,Inglês,Idiomas
+13,10,Atendimento ao Cliente,Negócios / Marketing
+13,13,Marketing,Negócios / Marketing
+13,6,Gestão,Gestão / Administração
+13,8,Liderança,Comportamento / Social
+13,4,Oratória,Oratória / Escrita
+13,5,Planejamento de eventos,Gestão / Administração
+13,7,Publicidade,Negócios / Marketing
+13,1,Gestão de projetos,Gestão / Administração
+14,7,English,Idiomas
+14,6,Negotiation,Negócios / Marketing
+14,5,Team Leadership,Gestão / Administração
+14,4,Management,Gestão / Administração
+14,4,Engineering,Engenharia
+14,4,Marketing Strategy,Negócios / Marketing
+14,3,Business Planning,Negócios / Marketing
+14,1,Project Management,Gestão / Administração
+16,6,Microsoft Excel,Informática / Softwares
+16,6,English,Idiomas
+16,4,Negotiation,Negócios / Marketing
+16,4,Microsoft Office,Informática / Softwares
+16,3,Portuguese,Idiomas
+16,3,Business Planning,Negócios / Marketing
+16,3,Team Leadership,Gestão / Administração
+16,1,Strategic Planning,Gestão / Administração
+16,1,Business Strategy,Negócios / Marketing
+16,1,Microsoft Word,Informática / Softwares
+16,1,PowerPoint,Informática / Softwares
+16,Não Informado,PDCA,Gestão / Administração
+16,Não Informado,SAP R/3,Gestão / Administração
+16,Não Informado,Spanish,Idiomas
+16,Não Informado,Microsoft PowerPoint,Informática / Softwares
+17,3,English,Idiomas
+17,2,Microsoft PowerPoint,Informática / Softwares
+17,2,Microsoft Office,Informática / Softwares
+17,2,SolidWorks,Informática / Softwares
+17,1,Sketching,Design / Artes
+17,1,Microsoft Excel,Informática / Softwares
+17,1,Engineering,Engenharia
+17,1,Microsoft Word,Informática / Softwares
+17,1,Product Design,Gestão / Administração
+17,1,Product Development,Gestão / Administração
+17,1,Teamwork,Gestão / Administração
+17,1,Living Abroad,Idiomas
+18,2,Marketing,Negócios / Marketing
+18,2,Relações públicas,Negócios / Marketing
+18,2,Marketing comercial,Negócios / Marketing
+18,1,Experiência do cliente,Negócios / Marketing
+18,1,Gestão de equipes,Gestão / Administração
+18,1,Gestão de eventos,Gestão / Administração
+19,2,Microsoft Excel,Informática / Softwares
+19,2,Atendimento ao Cliente,Negócios / Marketing
+19,1,Microsoft Office,Informática / Softwares
+19,Não Informado,Microsoft Project,Gestão / Administração
+19,Não Informado,Gestão,Gestão / Administração
+19,Não Informado,Microsoft PowerPoint,Informática / Softwares
+19,Não Informado,CEP (Controle estatístico de processos),Gestão / Administração
+19,1,Empreendedorismo,Empreendedorismo
+19,Não Informado,Metrologia,Gestão / Administração
+19,Não Informado,CLP (Controlador lógico programável),TI / Desenvolvedor
+21,7,Microsoft Project,Gestão / Administração
+21,6,Liderança de equipe,Comportamento / Social
+21,6,Estratégia empresarial,Gestão / Administração
+21,5,Project Management,Gestão / Administração
+21,5,Inglês,Idiomas
+21,5,Gestão de projetos,Gestão / Administração
+21,5,Negociação,Negócios / Marketing
+21,4,Gestão,Gestão / Administração
+21,3,Gestão de obras,Gestão / Administração
+21,3,Management,Gestão / Administração
+21,3,Business Strategy,Negócios / Marketing
+21,3,Planejamento de projetos,Gestão / Administração
+21,3,Engenharia civil,Engenharia
+21,3,Microsoft PowerPoint,Informática / Softwares
+21,3,Planejamento empresarial,Gestão / Administração
+21,3,Planejamento estratégico,Gestão / Administração
+21,3,Microsoft Word,Informática / Softwares
+21,3,Engenharia de projetos,Engenharia
+21,2,Sales Management,Negócios / Marketing
+21,2,Estratégias de marketing,Negócios / Marketing
+21,2,Gestão de contratos,Gestão / Administração
+22,10,Atendimento ao Cliente,Negócios / Marketing
+22,8,Planejamento estratégico,Gestão / Administração
+22,7,Liderança,Comportamento / Social
+22,6,Organização de Eventos,Gestão / Administração
+22,5,Negociação,Negócios / Marketing
+22,3,Microsoft Excel,Informática / Softwares
+22,3,Adobe Photoshop,Informática / Softwares
+22,3,Marketing,Negócios / Marketing
+22,2,Formação de equipes,Gestão / Administração
+22,2,Adobe Illustrator,Informática / Softwares
+22,2,Marketing digital,Negócios / Marketing
+22,1,Net Promoter Score,TI / Desenvolvedor
+23,3,Design gráfico,Design / Artes
+23,3,Marketing,Negócios / Marketing
+23,2,Adobe Photoshop,Informática / Softwares
+23,1,Escrita,Oratória / Escrita
+23,Não Informado,Adobe Illustrator,Informática / Softwares
+23,Não Informado,Ilustração,Design / Artes
+23,Não Informado,Adobe After Effects,Informática / Softwares
+24,1,Social Computing,TI / Desenvolvedor
+24,2,Data Analysis,TI / Desenvolvedor
+24,1,Complex Networks,TI / Desenvolvedor
+24,2,Software Development,TI / Desenvolvedor
+24,1,Web Development,TI / Desenvolvedor
+24,1,Software Documentation,TI / Desenvolvedor
+24,1,Python,Linguagem de Programação
+24,1,R,Linguagem de Programação
+24,1,Ruby,Linguagem de Programação
+24,1,C#,Linguagem de Programação
+24,1,PHP,Linguagem de Programação
+24,1,C,Linguagem de Programação
+24,2,C++,Linguagem de Programação
+24,1,Ruby on Rails,Linguagem de Programação
+24,1,.NET,Linguagem de Programação
+24,1,ASP.NET,Linguagem de Programação
+24,1,HTML,Linguagem de Programação
+24,1,CSS,Informática / Softwares
+24,1,JavaScript,Linguagem de Programação
+24,1,JQuery,Informática / Softwares
+24,1,XML,Linguagem de Programação
+24,1,Git,Informática / Softwares
+24,1,Web Hosting,TI / Desenvolvedor
+24,1,Infrastructure Management,Gestão / Administração
+24,1,Windows,Informática / Softwares
+24,1,Linux,Informática / Softwares
+24,1,MySQL,Informática / Softwares
+24,1,Microsoft SQL Server,Informática / Softwares
+24,1,Network Protocols,TI / Desenvolvedor
+24,1,Cloud Computing,TI / Desenvolvedor
+24,1,Customer Support,Negócios / Marketing
+24,1,Teamwork,Gestão / Administração
+24,1,Fast Learning,Comportamento / Social
+24,1,Proactivity,Comportamento / Social
+24,2,.NET Framework,Informática / Softwares
+29,48,Scrum,Gestão / Administração
+29,43,Software Development,TI / Desenvolvedor
+29,33,Mobile Applications,Informática / Softwares
+29,2,Project Coordination,Gestão / Administração
+29,32,Android,Informática / Softwares
+29,31,Qt,Informática / Softwares
+29,21,Software Engineering,Engenharia
+29,18,C,Linguagem de Programação
+29,17,Java,Linguagem de Programação
+29,15,Open Source,Linguagem de Programação
+29,17,C++,Linguagem de Programação
+29,17,Git,Informática / Softwares
+29,15,Linux,Informática / Softwares
+29,11,JavaScript,Linguagem de Programação
+29,8,UML,Linguagem de Programação
+29,5,Application Development,TI / Desenvolvedor
+29,8,Python,Linguagem de Programação
+29,6,Team Leadership,Gestão / Administração
+29,3,AJAX,Linguagem de Programação
+29,4,Computer Science,TI / Desenvolvedor
+29,7,Subversion,Informática / Softwares
+29,8,Design Patterns,Design / Artes
+29,3,WebKit,TI / Desenvolvedor
+29,3,Mozilla,Informática / Softwares
+29,3,JSON,Linguagem de Programação
+29,3,Information Retrieval,TI / Desenvolvedor
+29,2,Maemo,Informática / Softwares
+29,2,OOP,Linguagem de Programação
+29,7,Agile Methodologies,Gestão / Administração
+29,1,GTK,Informática / Softwares
+29,1,Linux development,Informática / Softwares
+29,2,Mobile Devices,Informática / Softwares
+29,Não Informado,HTML/XML,Linguagem de Programação
+29,1,Data Extraction,TI / Desenvolvedor
+29,Não Informado,Web Mining,TI / Desenvolvedor
+29,1,Product Development,Gestão / Administração
+29,1,Project Planning,Gestão / Administração
+29,1,Microsoft Project,Gestão / Administração
+29,4,Software Project Management,Gestão / Administração
+29,1,Project Estimation,Gestão / Administração
+30,Não Informado,Marketing digital,Negócios / Marketing
+30,Não Informado,Desenho mecânico,Design / Artes
+30,Não Informado,SolidWorks,Informática / Softwares
+30,Não Informado,Microsoft Project,Gestão / Administração
+31,31,JavaScript,Linguagem de Programação
+31,9,Node.js,Informática / Softwares
+31,28,PHP,Linguagem de Programação
+31,29,MySQL,Informática / Softwares
+31,Não Informado,React.js,Linguagem de Programação
+31,Não Informado,Python,Linguagem de Programação
+31,Não Informado,Docker,Informática / Softwares
+31,21,HTML,Linguagem de Programação
+31,4,SASS,Linguagem de Programação
+31,25,jQuery,Informática / Softwares
+31,22,CSS,Informática / Softwares
+31,1,Git,Informática / Softwares
+31,16,Web Design,TI / Desenvolvedor
+31,Não Informado,WebRTC,Informática / Softwares
+31,Não Informado,Apache Cordova,Informática / Softwares
+31,Não Informado,Electron,Informática / Softwares
+31,2,WebSockets,Informática / Softwares
+31,16,Java,Linguagem de Programação
+31,Não Informado,Gulp.js,Informática / Softwares
+31,Não Informado,GruntJS,Informática / Softwares
+31,1,NoSQL,Informática / Softwares
+31,7,PostgreSQL,Informática / Softwares
+31,1,SEO,TI / Desenvolvedor
+31,13,JSON,Linguagem de Programação
+31,6,XML,Linguagem de Programação
+31,4,OOP,Linguagem de Programação
+31,6,Software Engineering,Engenharia
+31,Não Informado,Scrum,Gestão / Administração
+31,5,Web Services,Informática / Softwares
+31,4,Facebook API,Informática / Softwares
+31,2,C++,Linguagem de Programação
+31,2,C,Linguagem de Programação
+31,6,HTML 5,Linguagem de Programação
+31,17,AJAX,Linguagem de Programação
+31,3,Photoshop,Informática / Softwares
+31,3,UML,Linguagem de Programação
+31,4,Microsoft SQL Server,Informática / Softwares
+31,2,WordPress,Informática / Softwares
+31,1,Linux Server,Informática / Softwares
+31,1,Apache,Informática / Softwares
+31,1,Shell Scripting,Informática / Softwares
+31,3,Delphi,Informática / Softwares
+31,1,Material Design,Design / Artes
+32,9,Estratégia empresarial,Gestão / Administração
+32,5,Planejamento empresarial,Gestão / Administração
+32,4,Liderança de equipe,Comportamento / Social
+32,4,Negociação,Negócios / Marketing
+32,1,Cartões de crédito,Negócios / Marketing
+32,1,Português,Idiomas
+32,1,Gestão de vendas,Negócios / Marketing
+32,Não Informado,Credit Cards,Linguagem de Programação
+32,Não Informado,PMI,Gestão / Administração
+32,Não Informado,Business Planning,Negócios / Marketing
+32,Não Informado,Negotiation,Negócios / Marketing
+32,Não Informado,DOS,Informática / Softwares
+32,Não Informado,Portuguese,Idiomas
+32,Não Informado,COBIT,TI / Desenvolvedor
+32,Não Informado,Business Strategy,Negócios / Marketing
+32,Não Informado,Sales Management,Negócios / Marketing
+32,Não Informado,Team Leadership,Gestão / Administração
+32,Não Informado,Portfolio Management,Gestão / Administração
+33,34,User Interface Design,TI / Desenvolvedor
+33,31,Interaction Design,Design / Artes
+33,28,Information Architecture,TI / Desenvolvedor
+33,27,User Experience,TI / Desenvolvedor
+33,14,CSS,Informática / Softwares
+33,12,Web Development,TI / Desenvolvedor
+33,10,Agile Project Management,Gestão / Administração
+33,11,Front-end,TI / Desenvolvedor
+33,11,Usability Testing,TI / Desenvolvedor
+33,3,A/B Testing,TI / Desenvolvedor
+33,6,HTML,Linguagem de Programação
+33,7,Graphic Design,Design / Artes
+33,4,Prototyping,TI / Desenvolvedor
+33,5,JavaScript,Linguagem de Programação
+33,5,PHP,Linguagem de Programação
+33,2,Git,Informática / Softwares
+33,4,Visual Design,Informática / Softwares
+33,2,Photoshop,Informática / Softwares
+33,6,User Experience Design,TI / Desenvolvedor
+33,3,Front-end Development,TI / Desenvolvedor
+34,8,Product Management,Gestão / Administração
+34,14,Mobile Devices,Informática / Softwares
+34,15,Web Development,TI / Desenvolvedor
+34,10,Agile Methodologies,Gestão / Administração
+34,7,Android Development,Informática / Softwares
+34,3,Mobile Application Development,Informática / Softwares
+34,11,Java,Linguagem de Programação
+34,5,Distributed Systems,TI / Desenvolvedor
+34,5,Ruby on Rails,Linguagem de Programação
+34,3,Git,Informática / Softwares
+34,2,Ruby,Linguagem de Programação
+34,3,Mobile Applications,Informática / Softwares
+34,1,Heroku,Informática / Softwares
+34,1,Software Development,TI / Desenvolvedor
+34,2,Scrum,Gestão / Administração
+34,Não Informado,Customer Focused Design,Negócios / Marketing
+34,Não Informado,Customer development,Negócios / Marketing
+34,Não Informado,Start-ups,Empreendedorismo
+34,Não Informado,Mobile Product Development,Gestão / Administração
+34,Não Informado,Data Analysis,TI / Desenvolvedor
+34,Não Informado,Hypothesis Testing,TI / Desenvolvedor
+34,Não Informado,User Experience,TI / Desenvolvedor
+34,Não Informado,Cross-functional Team Leadership,Gestão / Administração
+34,Não Informado,Lean Startup,Gestão / Administração
+34,Não Informado,Entrepreneurship,Empreendedorismo
+35,90,Linux,Informática / Softwares
+35,26,Open Source,Linguagem de Programação
+35,19,MySQL,Informática / Softwares
+35,15,PHP,Linguagem de Programação
+35,54,Python,Linguagem de Programação
+35,36,Java,Linguagem de Programação
+35,29,C++,Linguagem de Programação
+35,9,Operating Systems,TI / Desenvolvedor
+35,13,Bash,Informática / Softwares
+35,17,Distributed Systems,TI / Desenvolvedor
+35,1,Amazon Web Services,Informática / Softwares
+35,3,Chrome Extensions,Informática / Softwares
+35,10,Git,Informática / Softwares
+35,15,Computer Science,TI / Desenvolvedor
+35,16,Software Development,TI / Desenvolvedor
+35,2,MongoDB,Informática / Softwares
+35,13,C,Linguagem de Programação
+35,10,Shell Scripting,Informática / Softwares
+35,8,Programming,Linguagem de Programação
+35,6,Linux development,Informática / Softwares
+35,5,Algorithms,Linguagem de Programação
+35,5,Eclipse,Informática / Softwares
+35,5,UML,Linguagem de Programação
+35,4,Android,Informática / Softwares
+35,5,JavaScript,Linguagem de Programação
+35,4,Parallel Programming,Linguagem de Programação
+35,3,Compilers,Informática / Softwares
+35,3,Objective-C,Linguagem de Programação
+35,3,Perl,Linguagem de Programação
+35,3,Heroku,Informática / Softwares
+35,3,CVS,Informática / Softwares
+35,2,PostgreSQL,Informática / Softwares
+35,2,Object Oriented Design,Design / Artes
+35,1,Multithreading,TI / Desenvolvedor
+35,1,Parallel Computing,TI / Desenvolvedor
+35,1,Scalability,TI / Desenvolvedor
+35,21,Software Engineering,Engenharia
+35,1,Flask,Informática / Softwares
+35,1,Unix Shell Scripting,Informática / Softwares
+35,1,REST,Informática / Softwares
+35,1,Escalabilidade,Linguagem de Programação
+35,2,Algoritmo,Linguagem de Programação
+35,2,C (linguagem de programação),Linguagem de Programação
+35,4,Engenharia de software,Engenharia
+35,3,Código aberto,Linguagem de Programação
+35,3,Desenvolvimento de software,TI / Desenvolvedor
+35,1,Ciência da computação,TI / Desenvolvedor
+35,1,Programação de computadores,Linguagem de Programação
+35,1,Shell script,Informática / Softwares
+35,1,Sistemas distribuídos,Informática / Softwares
+36,5,Inglês,Idiomas
+36,4,Comunicação interpessoal,Comportamento / Social
+36,3,Motivação de equipes,Gestão / Administração
+36,2,Gerenciamento de processos de negócios,Negócios / Marketing
+36,2,Língua Portuguesa,Idiomas
+36,2,Liderança de equipe,Comportamento / Social
+36,2,Microsoft Office,Informática / Softwares
+37,28,PHP,Linguagem de Programação
+37,29,JavaScript,Linguagem de Programação
+37,21,Python,Linguagem de Programação
+37,4,Scrum,Gestão / Administração
+37,13,Performance Improvement,Gestão / Administração
+37,8,Team Leadership,Gestão / Administração
+37,7,Linux,Informática / Softwares
+37,7,Git,Informática / Softwares
+37,6,MySQL,Informática / Softwares
+37,3,Nginx,Informática / Softwares
+37,2,Django,Informática / Softwares
+37,5,Laravel,Informática / Softwares
+37,2,WordPress,Informática / Softwares
+37,1,PostgreSQL,Informática / Softwares
+37,1,AngularJS,Informática / Softwares
+37,4,TDD,Informática / Softwares
+38,10,Python,Linguagem de Programação
+38,11,Scrum,Gestão / Administração
+38,4,Desenvolvimento de software,TI / Desenvolvedor
+38,4,Engenharia de software,Engenharia
+38,2,Desenvolvimento orientado a testes,TI / Desenvolvedor
+38,3,Agile Methodologies,Gestão / Administração
+38,4,Análise de sistemas,TI / Desenvolvedor
+38,4,Análise de requisitos,TI / Desenvolvedor
+38,4,Linux,Informática / Softwares
+38,1,Coordenação de projetos,Gestão / Administração
+38,Não Informado,Liderança de equipe,Comportamento / Social
+38,3,PHP,Linguagem de Programação
+38,1,Java,Linguagem de Programação
+38,1,HTML5,Linguagem de Programação
+38,15,JavaScript,Linguagem de Programação
+38,4,jQuery,Informática / Softwares
+38,5,CSS,Informática / Softwares
+38,4,SQL,Linguagem de Programação
+38,6,UML,Linguagem de Programação
+38,1,Web Services,Informática / Softwares
+38,Não Informado,REST,Informática / Softwares
+38,Não Informado,SOAP,Informática / Softwares
+38,1,Web Development,TI / Desenvolvedor
+38,2,Git,Informática / Softwares
+38,1,PostgreSQL,Informática / Softwares
+38,3,Jenkins,Informática / Softwares
+38,Não Informado,Nginx,Informática / Softwares
+38,Não Informado,Servidor Apache,Informática / Softwares
+38,1,Sistemas operacionais,TI / Desenvolvedor
+39,14,Microsoft Excel,Informática / Softwares
+39,11,Microsoft Office,Informática / Softwares
+39,12,Microsoft PowerPoint,Informática / Softwares
+39,8,Planejamento empresarial,Gestão / Administração
+39,8,Planejamento estratégico,Gestão / Administração
+39,6,Business,Negócios / Marketing
+39,8,Estratégia empresarial,Gestão / Administração
+39,4,Business Analysis,Negócios / Marketing
+39,4,Business Planning,Negócios / Marketing
+39,4,ERP (Planejamento de recursos empresariais),Gestão / Administração
+39,1,Excel Dashboards,Informática / Softwares
+39,4,Inglês,Idiomas
+39,3,Gestão,Gestão / Administração
+39,5,Sistemas operacionais,TI / Desenvolvedor
+39,2,Business Intelligence Tools,Negócios / Marketing
+39,2,Strategic Consulting,Gestão / Administração
+39,3,Liderança de equipe,Comportamento / Social
+39,1,Gestão de informações,Gestão / Administração
+39,2,Inteligência empresarial,Gestão / Administração
+39,1,Inteligência de mercado,Negócios / Marketing
+39,1,Competitive Analysis,Negócios / Marketing
+39,1,Dashboard,TI / Desenvolvedor
+39,1,Information Management,Gestão / Administração
+39,1,Data Analysis,TI / Desenvolvedor
+39,1,Marketing digital,Negócios / Marketing
+39,1,Operating Systems,TI / Desenvolvedor
+39,9,Microsoft Word,Informática / Softwares
+39,1,Business Intelligence,Negócios / Marketing
+39,Não Informado,VBA,TI / Desenvolvedor
+39,Não Informado,Negociação,Negócios / Marketing
+39,Não Informado,Marketing,Negócios / Marketing
+39,Não Informado,Consultoria,Gestão / Administração
+39,Não Informado,Análises,Gestão / Administração
+39,Não Informado,Consultoria de gestão,Gestão / Administração
+39,Não Informado,Capacidade analítica,Comportamento / Social
+39,Não Informado,Planejamento de projetos,Gestão / Administração
+39,Não Informado,Empreendedorismo,Empreendedorismo
+39,Não Informado,Análises de mercado,Negócios / Marketing
+39,Não Informado,Estratégia,Gestão / Administração
+40,21,JavaScript,Linguagem de Programação
+40,6,Angular,Informática / Softwares
+40,12,jQuery,Informática / Softwares
+40,13,HTML,Linguagem de Programação
+40,13,CSS,Informática / Softwares
+40,9,AJAX,Linguagem de Programação
+40,5,Ruby on Rails,Linguagem de Programação
+40,7,User Interfaces,TI / Desenvolvedor
+40,12,Linux,Informática / Softwares
+40,6,Python,Linguagem de Programação
+40,7,Programming,Linguagem de Programação
+40,6,Programação de computadores,Linguagem de Programação
+40,3,PHP,Linguagem de Programação
+40,2,Node.js,Informática / Softwares
+40,Não Informado,Arquitetura de software,TI / Desenvolvedor
+40,3,Scrum,Gestão / Administração
+40,Não Informado,SEO (Otimização de motores de busca),TI / Desenvolvedor
+40,2,Git,Informática / Softwares
+40,1,SASS,Linguagem de Programação
+40,Não Informado,Chrome Developer Tools,Informática / Softwares
+40,Não Informado,Compatibilidade cross-browser,Linguagem de Programação
+40,Não Informado,Design de interação,Design / Artes
+42,Não Informado,Microsoft Excel,Informática / Softwares
+42,Não Informado,Customer Service,Negócios / Marketing
+42,Não Informado,Leadership,Gestão / Administração
+42,Não Informado,Microsoft Word,Informática / Softwares
+42,Não Informado,Microsoft Office,Informática / Softwares
+42,Não Informado,Research,Negócios / Marketing
+42,Não Informado,Microsoft PowerPoint,Informática / Softwares
+42,Não Informado,Public Speaking,Oratória / Escrita
+42,Não Informado,Social Media,Negócios / Marketing
+42,Não Informado,Marketing,Negócios / Marketing
+42,Não Informado,SAP ERP,Gestão / Administração
+43,5,Finanças,Negócios / Marketing
+43,4,Contabilidade,Gestão / Administração
+43,3,Microsoft Windows,Informática / Softwares
+43,2,Microsoft Excel,Informática / Softwares
+43,2,Microsoft Word,Informática / Softwares
+43,2,Microsoft PowerPoint,Informática / Softwares
+43,1,Microsoft Office,Informática / Softwares
+43,1,Auditoria,Gestão / Administração
+43,1,Management,Gestão / Administração
+43,1,Negociação,Negócios / Marketing
+43,1,Microsoft Project,Gestão / Administração
+43,1,Negotiation,Negócios / Marketing
+43,1,Customer Service,Negócios / Marketing
+43,1,Leadership,Gestão / Administração
+43,1,Research,Negócios / Marketing
+43,1,Windows,Informática / Softwares
+43,1,Pesquisa,Negócios / Marketing
+43,1,Atendimento ao Cliente,Negócios / Marketing
+43,1,Gestão,Gestão / Administração
+43,1,Inglês,Idiomas
+43,1,Liderança,Comportamento / Social
+43,1,"Profissional competente, comunicativo e proativo.",Comportamento / Social
+43,1,Bom relacionamento para trabalhar em equipe.,Comportamento / Social
+43,1,Inglês Intermediário,Idiomas
+44,2,Go,Linguagem de Programação
+44,1,Google Cloud Platform,Informática / Softwares
+44,24,MySQL,Informática / Softwares
+44,1,Ceph,Informática / Softwares
+44,26,Linux,Informática / Softwares
+44,1,Redis,Informática / Softwares
+44,1,Nginx,Informática / Softwares
+44,19,Scrum,Gestão / Administração
+44,3,Scalability,TI / Desenvolvedor
+44,4,Problem Solving,Gestão / Administração
+44,21,JavaScript,Linguagem de Programação
+44,23,PHP,Linguagem de Programação
+44,4,Software Engineering,Engenharia
+44,13,Web Development,TI / Desenvolvedor
+44,4,Ruby,Linguagem de Programação
+44,1,Amazon Web Services (AWS),Informática / Softwares
+44,Não Informado,Lua,Informática / Softwares
+44,5,Social Web,TI / Desenvolvedor
+44,5,Team Management,Gestão / Administração
+44,4,Python,Linguagem de Programação
+44,6,Performance Tuning,TI / Desenvolvedor
+44,3,CSS,Informática / Softwares
+44,4,Git,Informática / Softwares
+44,3,Java,Linguagem de Programação
+44,3,Software Development,TI / Desenvolvedor
+44,Não Informado,Kubernetes,Informática / Softwares
+44,1,HTML 5,Linguagem de Programação
+44,2,Varnish Cache,Informática / Softwares
+44,2,Google Analytics,Informática / Softwares
+44,1,Product Management,Gestão / Administração
+44,1,System Architecture,TI / Desenvolvedor
+44,1,Development Management,Gestão / Administração
+44,7,Facebook API,Informática / Softwares
+44,1,DevOps,TI / Desenvolvedor
+44,1,Social Networking,TI / Desenvolvedor
+44,1,Shell Scripting,Informática / Softwares
+44,1,User Experience,TI / Desenvolvedor
+44,7,OpenSocial,Informática / Softwares
+44,Não Informado,Music Theory,Design / Artes
+44,Não Informado,SEO,TI / Desenvolvedor
+44,8,jQuery,Informática / Softwares
+44,2,AJAX,Linguagem de Programação
+44,1,HTML5,Linguagem de Programação
+44,Não Informado,SQL,Linguagem de Programação
+44,Não Informado,HTML,Linguagem de Programação
+44,Não Informado,Operating Systems,TI / Desenvolvedor
+44,Não Informado,IT Service Management,Gestão / Administração
+45,1,JavaScript,Linguagem de Programação
+45,2,PHP,Linguagem de Programação
+45,1,HTML,Linguagem de Programação
+45,1,MySQL,Informática / Softwares
+45,Não Informado,Python,Linguagem de Programação
+45,Não Informado,Java,Linguagem de Programação
+45,Não Informado,CSS,Informática / Softwares
+45,Não Informado,C++,Linguagem de Programação
+45,3,Desenvolvimento de software,TI / Desenvolvedor
+45,Não Informado,Software Development,TI / Desenvolvedor
+45,Não Informado,Web Development,TI / Desenvolvedor
+45,Não Informado,Hardware Installation,TI / Desenvolvedor
+45,2,Scrum,Gestão / Administração
+46,Não Informado,Git,Informática / Softwares
+46,Não Informado,Scrum,Gestão / Administração
+46,Não Informado,Web Development,TI / Desenvolvedor
+46,Não Informado,HTML,Linguagem de Programação
+46,Não Informado,CSS,Informática / Softwares
+46,Não Informado,JavaScript,Linguagem de Programação
+46,Não Informado,Software Development,TI / Desenvolvedor
+46,Não Informado,MySQL,Informática / Softwares
+46,Não Informado,PHP,Linguagem de Programação
+47,4,Psychological Assessment,Gestão / Administração
+47,4,Psychometrics,Gestão / Administração
+47,3,Research,Negócios / Marketing
+47,Não Informado,Recruitments,Gestão / Administração
+47,6,Microsoft Excel,Informática / Softwares
+47,5,Microsoft Word,Informática / Softwares
+47,Não Informado,PowerPoint,Informática / Softwares
+47,Não Informado,English,Idiomas
+47,Não Informado,Negotiation,Negócios / Marketing
+47,1,Liderança de equipe,Comportamento / Social
+47,2,Microsoft Office,Informática / Softwares
+47,1,Português,Idiomas
+47,Não Informado,Strategic Planning,Gestão / Administração
+47,3,Microsoft PowerPoint,Informática / Softwares
+47,3,Inglês,Idiomas
+47,1,Planejamento estratégico,Gestão / Administração
+47,1,Estratégia empresarial,Gestão / Administração
+47,1,Human Resources,Gestão / Administração
+49,36,Interaction Design,Design / Artes
+49,27,User Experience,TI / Desenvolvedor
+49,22,Design da Experiência do Usuário,TI / Desenvolvedor
+49,21,User Interface Design,TI / Desenvolvedor
+49,20,Information Architecture,TI / Desenvolvedor
+49,20,Layout,Design / Artes
+49,20,Design de interação,Design / Artes
+49,19,Design de interface do usuário,TI / Desenvolvedor
+49,18,User-centered Design,TI / Desenvolvedor
+49,16,Arquitetura de informação,TI / Desenvolvedor
+49,16,Experiência do usuário,TI / Desenvolvedor
+49,14,Web design,TI / Desenvolvedor
+49,11,User Experience Design,TI / Desenvolvedor
+49,11,Marketing digital,Negócios / Marketing
+49,11,Adobe Photoshop,Informática / Softwares
+49,10,Usability,TI / Desenvolvedor
+49,10,Adobe Illustrator,Informática / Softwares
+49,10,Design gráfico,Design / Artes
+49,8,Web Design,TI / Desenvolvedor
+49,8,Photoshop,Informática / Softwares
+49,6,Design Thinking,Comportamento / Social
+49,6,Axure,Informática / Softwares
+49,6,Graphic Design,Design / Artes
+49,6,Layout gráfico,Design / Artes
+49,5,Experience Design,Design / Artes
+49,4,Design de experiência,Design / Artes
+49,Não Informado,Usabilidade,TI / Desenvolvedor
+49,2,Digital Marketing,Negócios / Marketing
+49,Não Informado,Design thinking,Comportamento / Social
+49,1,ActionScript,Linguagem de Programação
+49,1,Accessibility,TI / Desenvolvedor
+49,1,Illustrator,Design / Artes
+49,1,mobile application design,Informática / Softwares
+49,1,Design voltado para o usuário,TI / Desenvolvedor
+49,Não Informado,Responsiveness,TI / Desenvolvedor
+49,Não Informado,Web Application Design,TI / Desenvolvedor
+50,60,Marketing digital,Negócios / Marketing
+50,49,Marketing de motor de busca,Negócios / Marketing
+50,43,Marketing,Negócios / Marketing
+50,35,Publicidade online,Negócios / Marketing
+50,34,Estratégias de marketing,Negócios / Marketing
+50,29,Digital Marketing,Negócios / Marketing
+50,21,Marketing por e-mail,Negócios / Marketing
+50,17,Marketing social,Negócios / Marketing
+50,16,Online Advertising,Negócios / Marketing
+50,14,Social Media Marketing,Negócios / Marketing
+50,13,Marketing Strategy,Negócios / Marketing
+50,12,Google Analytics,Informática / Softwares
+50,11,Digital Media,Negócios / Marketing
+50,11,Digital Strategy,Gestão / Administração
+50,11,Estratégia digital,Gestão / Administração
+50,10,Email Marketing,Negócios / Marketing
+50,9,Mídias sociais,Negócios / Marketing
+50,9,Comércio eletrônico,Negócios / Marketing
+50,8,Mídia digital,Negócios / Marketing
+50,7,Facebook,Informática / Softwares
+50,5,Social Media,Negócios / Marketing
+50,5,CRM,Gestão / Administração
+50,5,Google AdWords,Informática / Softwares
+50,5,Comunicações de marketing,Negócios / Marketing
+50,4,Google Adwords,Informática / Softwares
+50,4,SEM,Negócios / Marketing
+50,4,Advertising,Negócios / Marketing
+50,4,Análise de rede,TI / Desenvolvedor
+50,4,SEO (Otimização de motores de busca),TI / Desenvolvedor
+50,4,Gestão de relação de clientes,Negócios / Marketing
+50,3,Web Analytics,TI / Desenvolvedor
+50,3,E-commerce,Negócios / Marketing
+50,3,Mobile Marketing,Negócios / Marketing
+50,3,Media Planning,Negócios / Marketing
+50,3,Marketing para dispositivos móveis,Negócios / Marketing
+50,3,Planejamento de mídia,Gestão / Administração
+50,3,Publicidade,Negócios / Marketing
+50,2,SEO,TI / Desenvolvedor
+50,2,Marketing Communications,Negócios / Marketing
+50,1,Trade Marketing,Negócios / Marketing
+51,25,Team Leadership,Gestão / Administração
+51,23,Sales Operations,Negócios / Marketing
+51,21,Sales Management,Negócios / Marketing
+51,16,Trade Marketing,Negócios / Marketing
+51,16,Strategic Planning,Gestão / Administração
+51,12,PDCA,Gestão / Administração
+51,11,Portuguese,Idiomas
+51,11,Pricing Strategy,Gestão / Administração
+51,10,English,Idiomas
+51,8,Supply Chain,Gestão / Administração
+51,3,Spanish,Idiomas
+52,27,Optimization Strategies,Gestão / Administração
+52,42,SEO,TI / Desenvolvedor
+52,65,Google Analytics,Informática / Softwares
+52,18,Usability Testing,TI / Desenvolvedor
+52,19,Conversion Optimization,TI / Desenvolvedor
+52,23,Usability,TI / Desenvolvedor
+52,30,Digital Marketing,Negócios / Marketing
+52,13,Information Architecture,TI / Desenvolvedor
+52,17,Web Analytics,TI / Desenvolvedor
+52,16,Digital Advertising,Negócios / Marketing
+52,5,Inbound Marketing,Negócios / Marketing
+52,6,Digital Strategy,Gestão / Administração
+52,19,jQuery,Informática / Softwares
+52,38,CSS,Informática / Softwares
+52,24,WordPress,Informática / Softwares
+52,11,HTML 5,Linguagem de Programação
+52,14,PHP,Linguagem de Programação
+52,6,CSS3,Informática / Softwares
+52,7,Google Adwords,Informática / Softwares
+52,4,Semantic HTML,Linguagem de Programação
+52,5,Mobile Devices,Informática / Softwares
+52,8,Wireframes,Informática / Softwares
+52,4,PPC,Negócios / Marketing
+52,4,SEM,Negócios / Marketing
+52,3,Landing Page Optimization,TI / Desenvolvedor
+52,9,JavaScript,Linguagem de Programação
+52,3,E-commerce Optimization,Negócios / Marketing
+52,3,E-commerce Consulting,Negócios / Marketing
+52,7,Online Advertising,Negócios / Marketing
+52,9,Social Media Marketing,Negócios / Marketing
+52,3,Social Media Advertising,Negócios / Marketing
+52,6,Online Marketing,Negócios / Marketing
+52,3,Digital Media Services,Negócios / Marketing
+52,2,Accessibility,TI / Desenvolvedor
+52,2,Sitemap,Informática / Softwares
+52,2,Web Standards,TI / Desenvolvedor
+52,5,Social Media,Negócios / Marketing
+52,33,SEO (Otimização de motores de busca),TI / Desenvolvedor
+52,39,Marketing digital,Negócios / Marketing
+52,9,Marketing de motor de busca,Negócios / Marketing
+52,21,JQuery,Informática / Softwares
+52,12,Marketing online,Negócios / Marketing
+52,12,Mídias sociais,Negócios / Marketing
+52,9,Marketing social,Negócios / Marketing
+52,8,Arquitetura de informação,TI / Desenvolvedor
+52,12,Publicidade online,Negócios / Marketing
+52,7,Análise de rede,TI / Desenvolvedor
+52,4,Usabilidade,TI / Desenvolvedor
+52,6,Estratégia digital,Gestão / Administração
+52,7,HTML5,Linguagem de Programação
+53,9,Copywriting,Informática / Softwares
+53,20,Social Media,Negócios / Marketing
+53,17,Digital Marketing,Negócios / Marketing
+53,10,Art Direction,Design / Artes
+53,22,Mídias sociais,Negócios / Marketing
+53,13,Comunicações de marketing,Negócios / Marketing
+53,12,Publicidade,Negócios / Marketing
+53,19,Marketing digital,Negócios / Marketing
+53,16,Estratégias de marketing,Negócios / Marketing
+53,9,Publicidade online,Negócios / Marketing
+53,11,Redação,Oratória / Escrita
+53,3,Video Production,Gestão / Administração
+53,14,Adobe Photoshop,Informática / Softwares
+53,5,Inglês,Idiomas
+53,7,Planejamento estratégico,Gestão / Administração
+53,4,Gestão,Gestão / Administração
+53,7,Adobe Illustrator,Informática / Softwares
+53,3,Photoshop,Informática / Softwares
+53,5,Marketing social,Negócios / Marketing
+53,8,Marketing,Negócios / Marketing
+53,7,Microsoft Office,Informática / Softwares
+53,3,Microsoft Excel,Informática / Softwares
+54,14,Business Planning,Negócios / Marketing
+54,12,Marketing digital,Negócios / Marketing
+54,12,Estratégias de marketing,Negócios / Marketing
+54,7,Publicidade online,Negócios / Marketing
+54,7,Business Strategy,Negócios / Marketing
+54,6,Business Intelligence,Negócios / Marketing
+54,6,Business Development,Negócios / Marketing
+54,7,Gestão,Gestão / Administração
+54,5,New Business Development,Negócios / Marketing
+54,5,Comércio eletrônico,Negócios / Marketing
+54,4,Gestão de relação de clientes,Negócios / Marketing
+54,4,Relações com os clientes,Negócios / Marketing
+54,3,Google Analytics,Informática / Softwares
+54,3,Inteligência empresarial,Gestão / Administração
+54,3,Planejamento empresarial,Gestão / Administração
+54,7,Estratégia empresarial,Gestão / Administração
+54,3,Desenvolvimentos de clientes,Negócios / Marketing
+55,18,Mídias sociais,Negócios / Marketing
+55,15,Estratégias de marketing,Negócios / Marketing
+55,13,Marketing,Negócios / Marketing
+55,11,Planejamento estratégico,Gestão / Administração
+55,10,Publicidade,Negócios / Marketing
+55,10,Microsoft Office,Informática / Softwares
+55,8,Marketing digital,Negócios / Marketing
+55,7,Social Media Marketing,Negócios / Marketing
+55,6,Comunicações de marketing,Negócios / Marketing
+55,6,Marketing Communications,Negócios / Marketing
+55,5,Social Media,Negócios / Marketing
+55,3,Inglês,Idiomas
+55,2,Microsoft PowerPoint,Informática / Softwares
+55,2,Publicidade online,Negócios / Marketing
+55,2,Relações públicas,Negócios / Marketing
+55,1,Adobe Photoshop,Informática / Softwares
+56,7,Marketing,Negócios / Marketing
+56,5,Planejamento estratégico,Gestão / Administração
+56,5,Marketing digital,Negócios / Marketing
+56,4,Publicidade,Negócios / Marketing
+56,3,Gestão de projetos,Gestão / Administração
+57,35,Scrum,Gestão / Administração
+57,27,Desenvolvimento de sistemas,TI / Desenvolvedor
+57,32,Java,Linguagem de Programação
+57,26,JavaScript,Linguagem de Programação
+57,26,SQL,Linguagem de Programação
+57,11,Palestras,Gestão / Administração
+57,19,Analise de sistemas,TI / Desenvolvedor
+57,16,Ruby,Linguagem de Programação
+57,18,Microsoft SQL Server,Informática / Softwares
+57,16,CSS,Informática / Softwares
+57,13,Gerenciamento de serviços de TI,Gestão / Administração
+57,13,Liderança de equipe,Comportamento / Social
+57,12,Servidor Windows,Informática / Softwares
+57,11,Linux,Informática / Softwares
+57,16,HTML,Linguagem de Programação
+57,12,Git,Informática / Softwares
+57,9,Tableau,Informática / Softwares
+57,10,Microsoft Project,Gestão / Administração
+57,12,UML,Linguagem de Programação
+57,15,Sistemas operacionais,TI / Desenvolvedor
+57,11,ITIL,TI / Desenvolvedor
+58,27,ITIL,TI / Desenvolvedor
+58,18,Gerenciamento de serviços de TI,Gestão / Administração
+58,14,Sistemas operacionais,TI / Desenvolvedor
+58,11,Liderança de equipe,Comportamento / Social
+58,10,COBIT,TI / Desenvolvedor
+58,9,ERP (Planejamento de recursos empresariais),Gestão / Administração
+58,9,Gestão de TI,Gestão / Administração
+58,8,Centro de processamento de dados,TI / Desenvolvedor
+58,8,Microsoft Excel,Informática / Softwares
+58,7,IT Service Management,Gestão / Administração
+58,7,ERP,Gestão / Administração
+58,7,Microsoft Project,Gestão / Administração
+58,6,Business Intelligence,Negócios / Marketing
+58,6,Data Center,TI / Desenvolvedor
+58,6,5S,Gestão / Administração
+58,6,IT Management,Gestão / Administração
+58,5,Team Leadership,Gestão / Administração
+58,5,Terceirização de serviços,Gestão / Administração
+58,5,Recursos humanos,Gestão / Administração
+58,5,Operating Systems,TI / Desenvolvedor
+58,5,Microsoft Office,Informática / Softwares
+59,15,Microsoft Excel,Informática / Softwares
+59,12,Microsoft Office,Informática / Softwares
+59,9,Liderança,Comportamento / Social
+59,8,Gestão de projetos,Gestão / Administração
+59,8,Microsoft PowerPoint,Informática / Softwares
+59,6,Microsoft Word,Informática / Softwares
+59,5,Gestão de programas,Gestão / Administração
+59,4,Gestão,Gestão / Administração
+59,3,Atendimento ao Cliente,Negócios / Marketing
+59,3,Planejamento estratégico,Gestão / Administração
+59,3,Consultoria de gestão,Gestão / Administração
+59,2,Liderança de equipe,Comportamento / Social
+59,2,Planejamento empresarial,Gestão / Administração
+59,2,Leadership,Gestão / Administração
+59,2,Management,Gestão / Administração
+59,2,PowerPoint,Informática / Softwares
+59,2,Project Management,Gestão / Administração
+59,1,Treinamento,Gestão / Administração
+60,5,Product Development,Gestão / Administração
+60,4,Business Development,Negócios / Marketing
+60,4,Amazon Web Services (AWS),Informática / Softwares
+60,3,Project Management,Gestão / Administração
+60,10,iOS development,Informática / Softwares
+60,6,MySQL,Informática / Softwares
+60,11,JavaScript,Linguagem de Programação
+60,11,HTML 5,Linguagem de Programação
+60,7,CSS3,Informática / Softwares
+60,7,PHP,Linguagem de Programação
+60,6,Python,Linguagem de Programação
+60,88,Interaction Design,Design / Artes
+60,72,User Experience,TI / Desenvolvedor
+60,4,Business Model Canvas,Negócios / Marketing
+60,60,User-centered Design,TI / Desenvolvedor
+60,53,Usability Testing,TI / Desenvolvedor
+60,51,Usability,TI / Desenvolvedor
+60,36,Information Architecture,TI / Desenvolvedor
+60,32,Design Thinking,Comportamento / Social
+60,27,Information Design,TI / Desenvolvedor
+60,21,Experience Design,Design / Artes
+60,20,Heuristic Evaluation,TI / Desenvolvedor
+60,17,User Interface Design,TI / Desenvolvedor
+60,13,CSS,Informática / Softwares
+60,11,Prototype,TI / Desenvolvedor
+60,11,Front-end,TI / Desenvolvedor
+60,9,Persona,Negócios / Marketing
+60,9,User Experience Design,TI / Desenvolvedor
+60,9,Ethnography,História / Turismo
+60,8,Digital Marketing,Negócios / Marketing
+60,7,Paper Prototyping,TI / Desenvolvedor
+60,8,jQuery,Informática / Softwares
+60,7,Usability Engineering,Engenharia
+60,7,Mobile Design,Informática / Softwares
+60,6,Human Computer Interaction,TI / Desenvolvedor
+60,5,Axure,Informática / Softwares
+60,4,Design Strategy,Gestão / Administração
+60,4,Service Design,Design / Artes
+60,5,Wireframes,Informática / Softwares
+60,4,Contextual Inquiry,TI / Desenvolvedor
+60,5,MongoDB,Informática / Softwares
+60,4,Heroku,Informática / Softwares
+60,3,Rapid Prototyping,TI / Desenvolvedor
+60,2,Design Research,Negócios / Marketing
+60,2,Prototyping,TI / Desenvolvedor
+60,2,Personas,Negócios / Marketing
+60,1,customer development,Negócios / Marketing
+61,3,Entrepreneurship,Empreendedorismo
+61,2,Microsoft Office,Informática / Softwares
+61,2,Project Management,Gestão / Administração
+61,1,Critical Thinking,Comportamento / Social
+61,1,Business Management,Negócios / Marketing
+61,Não Informado,Data Analysis,TI / Desenvolvedor
+61,Não Informado,SQL,Linguagem de Programação
+61,Não Informado,Big Data Analytics,TI / Desenvolvedor
+61,Não Informado,Operations Management,Gestão / Administração
+61,Não Informado,Affiliate Marketing,Negócios / Marketing
+61,Não Informado,Digital Marketing,Negócios / Marketing
+61,Não Informado,Data Analytics,TI / Desenvolvedor
+61,Não Informado,"Extract, Transform, Load (ETL)",TI / Desenvolvedor
+62,46,Marketing digital,Negócios / Marketing
+62,32,Affiliation,Negócios / Marketing
+62,35,Publicidade online,Negócios / Marketing
+62,26,Fotografia,Design / Artes
+62,22,E-commerce SEO,Negócios / Marketing
+62,16,Marketing por e-mail,Negócios / Marketing
+62,24,Corporate Branding,Gestão / Administração
+62,32,Marketing,Negócios / Marketing
+62,21,Estratégias de marketing,Negócios / Marketing
+62,15,Mídias sociais,Negócios / Marketing
+62,15,Comércio eletrônico,Negócios / Marketing
+62,10,Planejamento estratégico,Gestão / Administração
+62,11,Email Marketing,Negócios / Marketing
+62,22,Online Advertising,Negócios / Marketing
+62,12,Marketing online,Negócios / Marketing
+62,14,Marketing Communications,Negócios / Marketing
+62,16,Identidade de marca corporativa,Gestão / Administração
+62,9,Marketing social,Negócios / Marketing
+62,10,Comunicações de marketing,Negócios / Marketing
+62,29,Adobe Photoshop,Informática / Softwares
+62,13,InDesign,Informática / Softwares
+62,19,Adobe Illustrator,Informática / Softwares
+62,12,Microsoft Office,Informática / Softwares
+62,6,Social Media,Negócios / Marketing
+62,2,Social Media Marketing,Negócios / Marketing
+63,44,JavaScript,Linguagem de Programação
+63,41,CSS,Informática / Softwares
+63,3,Tecnologia da informação,TI / Desenvolvedor
+63,9,Suporte técnico,TI / Desenvolvedor
+63,23,Linux,Informática / Softwares
+63,18,Sistemas operacionais,TI / Desenvolvedor
+63,9,Scrum,Gestão / Administração
+63,2,Tecnologias educacionais,Educação
+63,33,E-learning,Informática / Softwares
+63,41,MySQL,Informática / Softwares
+63,27,PHP,Linguagem de Programação
+63,19,Moodle,Informática / Softwares
+63,13,Multimídia,Informática / Softwares
+63,2,Empreendedorismo social,Empreendedorismo
+63,1,Facilitador Educacional,Educação
+63,11,Microsoft Excel,Informática / Softwares
+63,12,SQL,Linguagem de Programação
+63,9,Microsoft SQL Server,Informática / Softwares
+63,2,Gestão de projetos de software,Gestão / Administração
+63,7,HTML5,Linguagem de Programação
+63,23,Microsoft Office,Informática / Softwares
+63,18,HTML,Linguagem de Programação
+63,1,Novos negócios,Negócios / Marketing
+64,2,Gestão de Pessoas,Gestão / Administração
+64,3,Comunicação interna,Negócios / Marketing
+64,2,Gestão da mudanças,Gestão / Administração
+64,3,Melhoria de processos,Gestão / Administração
+64,2,History,História / Turismo
+64,2,Pesquisa,Negócios / Marketing
+64,2,Organizações sem fins lucrativos,Gestão / Administração
+64,2,Visão sistêmica,Comportamento / Social
+64,2,Microsoft Windows,Informática / Softwares
+64,2,Liderança,Comportamento / Social
+64,1,Mídias sociais,Negócios / Marketing
+65,9,SQL,Linguagem de Programação
+65,8,JavaScript,Linguagem de Programação
+65,8,jQuery,Informática / Softwares
+65,8,PHP,Linguagem de Programação
+65,7,CSS,Informática / Softwares
+65,7,MySQL,Informática / Softwares
+65,5,GruntJS,Informática / Softwares
+65,5,HTML,Linguagem de Programação
+65,5,SASS,Linguagem de Programação
+65,3,Scrum,Gestão / Administração
+65,2,Gulp.js,Informática / Softwares
+65,2,LESS,Linguagem de Programação
+65,2,Node.js,Informática / Softwares
+65,2,Facebook API,Informática / Softwares
+65,2,Git,Informática / Softwares
+65,2,C#,Linguagem de Programação
+65,2,Laravel,Informática / Softwares
+65,1,Microsoft SQL Server,Informática / Softwares
+65,1,Linux,Informática / Softwares
+65,5,Search Engine Optimization (SEO),TI / Desenvolvedor
+66,25,Marketing Strategy,Negócios / Marketing
+66,21,Marketing,Negócios / Marketing
+66,16,Estratégia empresarial,Gestão / Administração
+66,15,Estratégias de marketing,Negócios / Marketing
+66,11,Sales Management,Negócios / Marketing
+66,12,Business Strategy,Negócios / Marketing
+66,13,Microsoft Office,Informática / Softwares
+66,8,New Business Development,Negócios / Marketing
+66,9,Business Planning,Negócios / Marketing
+66,9,Marketing Management,Negócios / Marketing
+66,9,Gestão de vendas,Negócios / Marketing
+66,6,Gestão de marketing,Negócios / Marketing
+66,6,Managing Distribution Channels,Negócios / Marketing
+66,6,Competitive Analysis,Negócios / Marketing
+66,7,Planejamento empresarial,Gestão / Administração
+66,5,Microsoft Word,Informática / Softwares
+66,5,Desenvolvimento de novos negócios,Negócios / Marketing
+66,4,Brand Development,Gestão / Administração
+66,4,Team Management,Gestão / Administração
+66,5,Planejamento estratégico,Gestão / Administração
+66,5,Negociação,Negócios / Marketing
+66,5,Marketing digital,Negócios / Marketing
+66,5,Gestão,Gestão / Administração
+66,3,Relationship Marketing,Negócios / Marketing
+66,3,Advertising,Negócios / Marketing
+66,3,Telecommunications,Negócios / Marketing
+66,3,Liderança,Comportamento / Social
+66,4,Liderança de equipe,Comportamento / Social
+66,3,Análise da competitividade,Negócios / Marketing
+66,3,Publicidade online,Negócios / Marketing
+66,3,Gestão de projetos,Gestão / Administração
+66,3,Comunicações de marketing,Negócios / Marketing
+66,4,Estratégia,Gestão / Administração
+66,3,Vendas,Negócios / Marketing
+66,3,Comércio eletrônico,Negócios / Marketing
+66,4,Marketing no Facebook,Negócios / Marketing
+66,3,Google Analytics,Informática / Softwares
+66,3,Ajuda no sucesso do cliente,Negócios / Marketing
+66,4,Experiência do usuário,TI / Desenvolvedor
+66,4,Marketing online,Negócios / Marketing
+66,2,Marketing inbound,Negócios / Marketing
+66,Não Informado,Strategic Planning,Gestão / Administração
+66,Não Informado,Negotiation,Negócios / Marketing
+66,1,Digital Marketing,Negócios / Marketing
+67,8,Design gráfico,Design / Artes
+67,11,Marketing,Negócios / Marketing
+67,8,Advertising,Negócios / Marketing
+67,4,Redação,Oratória / Escrita
+67,6,Negociação,Negócios / Marketing
+67,5,Estratégia empresarial,Gestão / Administração
+67,4,Comunicação digital,Negócios / Marketing
+67,2,Publicidade,Negócios / Marketing
+67,2,Estratégia digital,Gestão / Administração
+68,22,Estratégia empresarial,Gestão / Administração
+68,14,Gestão de ativos,Gestão / Administração
+68,13,Mercado de capitais,Negócios / Marketing
+68,10,Modelagem financeira,Negócios / Marketing
+68,10,Finanças corporativas,Negócios / Marketing
+68,8,Microsoft Excel,Informática / Softwares
+68,8,Planejamento estratégico,Gestão / Administração
+68,7,Investimentos,Negócios / Marketing
+68,7,Microsoft Office,Informática / Softwares
+68,5,Economia,Negócios / Marketing
+68,4,Business Planning,Negócios / Marketing
+68,3,Análise financeira,Negócios / Marketing
+68,2,Mercados financeiros,Negócios / Marketing
+68,2,Avaliação financeira,Negócios / Marketing
+68,2,Asset Management,Gestão / Administração
+68,1,Planejamento empresarial,Gestão / Administração
+69,21,Gestão de relação de clientes,Negócios / Marketing
+69,19,Estratégia empresarial,Gestão / Administração
+69,17,Estratégias de marketing,Negócios / Marketing
+69,9,Marketing digital,Negócios / Marketing
+69,8,Negociação,Negócios / Marketing
+69,7,Planejamento empresarial,Gestão / Administração
+69,6,DOS,Informática / Softwares
+69,5,Gestão de produtos,Gestão / Administração
+69,5,Business Strategy,Negócios / Marketing
+69,4,Strategic Planning,Gestão / Administração
+70,17,Atendimento ao Cliente,Negócios / Marketing
+70,12,Inovação aberta,Empreendedorismo
+70,4,Customer Success,Negócios / Marketing
+70,11,Liderança inovadora,Comportamento / Social
+70,5,Gestão,Gestão / Administração
+70,Não Informado,Microsoft Office,Informática / Softwares
+70,6,Java,Linguagem de Programação
+70,7,Vendas,Negócios / Marketing
+70,7,Desenvolvimento de software,TI / Desenvolvedor
+70,12,Oratória,Oratória / Escrita
+70,7,Experiência do cliente,Negócios / Marketing
+70,5,Experiência do usuário,TI / Desenvolvedor
+70,2,Customer Satisfaction,Negócios / Marketing
+70,4,Liderança,Comportamento / Social
+70,6,Gestão de projetos,Gestão / Administração
+70,3,Management,Gestão / Administração
+70,3,Project Management,Gestão / Administração
+70,3,Digital Marketing,Negócios / Marketing
+70,5,Microsoft Word,Informática / Softwares
+70,1,Marketing digital,Negócios / Marketing
+70,1,Microsoft Excel,Informática / Softwares
+70,1,Microsoft PowerPoint,Informática / Softwares
+71,5,Marketing digital,Negócios / Marketing
+71,5,Publicidade online,Negócios / Marketing
+71,5,Mídia digital,Negócios / Marketing
+71,4,Publicidade,Negócios / Marketing
+71,4,Marketing online,Negócios / Marketing
+71,3,Estratégia digital,Gestão / Administração
+71,2,Comunicação empresarial,Negócios / Marketing
+71,1,Relações com a mídia,Negócios / Marketing
+71,1,Google AdWords,Informática / Softwares
+71,Não Informado,Marketing de influenciadores,Negócios / Marketing
+71,Não Informado,Mídias sociais,Negócios / Marketing
+72,17,Marketing Strategy,Negócios / Marketing
+72,13,Creative Direction,Linguagem de Programação
+72,13,Film Production,Gestão / Administração
+72,12,Short Films,Design / Artes
+72,12,Advertising,Negócios / Marketing
+72,12,Digital Marketing,Negócios / Marketing
+72,12,Online Advertising,Negócios / Marketing
+72,11,Social Media,Negócios / Marketing
+72,10,Photoshop,Informática / Softwares
+72,10,Illustrator,Design / Artes
+72,8,Estratégias de marketing,Negócios / Marketing
+72,6,Comunicações de marketing,Negócios / Marketing
+72,6,Comunicação empresarial,Negócios / Marketing
+72,6,Planejamento estratégico,Gestão / Administração
+72,5,Gestão de projetos,Gestão / Administração
+72,5,Communicação estratégica,Negócios / Marketing
+72,4,Strategic Planning,Gestão / Administração
+72,4,Compositing,Linguagem de Programação
+72,3,Marketing digital,Negócios / Marketing
+72,2,Mídias sociais,Negócios / Marketing
+72,2,Publicidade online,Negócios / Marketing
+73,4,Java,Linguagem de Programação
+73,2,C,Linguagem de Programação
+73,1,Scrum,Gestão / Administração
+73,1,Git,Informática / Softwares
+73,Não Informado,HTML,Linguagem de Programação
+73,Não Informado,Usability Testing,TI / Desenvolvedor
+74,41,Estratégias de marketing,Negócios / Marketing
+74,24,Negociação,Negócios / Marketing
+74,21,Marketing,Negócios / Marketing
+74,13,Microsoft Excel,Informática / Softwares
+74,10,Marketing digital,Negócios / Marketing
+74,10,Vendas,Negócios / Marketing
+74,7,Digital Marketing,Negócios / Marketing
+74,7,B2B,Negócios / Marketing
+74,7,Gestão de vendas,Negócios / Marketing
+74,7,Planejamento de mercado,Negócios / Marketing
+74,7,Gestão de relação de clientes,Negócios / Marketing
+74,6,E-commerce,Negócios / Marketing
+74,6,Marketing Strategy,Negócios / Marketing
+74,6,Sales,Negócios / Marketing
+74,6,Negotiation,Negócios / Marketing
+74,6,Comércio eletrônico,Negócios / Marketing
+74,6,Inglês,Idiomas
+74,5,Start-ups,Empreendedorismo
+74,5,Marketing social,Negócios / Marketing
+74,4,Salesforce.com,Negócios / Marketing
+74,4,Português,Idiomas
+74,4,Empresas startups,Empreendedorismo
+74,3,CRM,Gestão / Administração
+74,3,Marketing por e-mail,Negócios / Marketing
+74,2,Portuguese,Idiomas
+74,2,English,Idiomas
+74,2,Email Marketing,Negócios / Marketing
+74,2,SEM,Negócios / Marketing
+74,2,Google Analytics,Informática / Softwares
+74,2,Social Media Marketing,Negócios / Marketing
+74,2,Market Planning,Negócios / Marketing
+74,2,Sales Management,Negócios / Marketing
+75,13,Estratégia empresarial,Gestão / Administração
+75,11,Linhas aéreas,Engenharia
+75,6,Turismo,História / Turismo
+75,6,Estratégias de marketing,Negócios / Marketing
+75,6,Precificação,Negócios / Marketing
+75,5,Vendas,Negócios / Marketing
+75,4,Atendimento ao Cliente,Negócios / Marketing
+75,3,Português,Idiomas
+75,2,Microsoft Excel,Informática / Softwares
+75,2,Business Strategy,Negócios / Marketing
+75,1,Microsoft Office,Informática / Softwares
+75,Não Informado,Customer Service,Negócios / Marketing
+75,Não Informado,Sabre,Informática / Softwares
+75,Não Informado,Amadeus,Informática / Softwares
+75,Não Informado,Oracle Hyperion Web Analysis,Informática / Softwares
+75,Não Informado,Navitaire SkySpeed 3.4,Informática / Softwares
+75,Não Informado,Oracle i-Expenses,Informática / Softwares
+76,4,Foco no cliente,Negócios / Marketing
+76,3,Comunicação interpessoal,Comportamento / Social
+76,3,Proatividade,Comportamento / Social
+76,3,Persistência,Comportamento / Social
+76,3,Sociabilidade,Comportamento / Social
+76,3,Sensibilidade,Comportamento / Social
+77,26,Comércio eletrônico,Negócios / Marketing
+77,19,Google Analytics,Informática / Softwares
+77,19,Marketing digital,Negócios / Marketing
+77,13,Google AdWords,Informática / Softwares
+77,12,E-commerce,Negócios / Marketing
+77,11,Estratégias de marketing,Negócios / Marketing
+77,8,Marketing online,Negócios / Marketing
+77,8,Análise de rede,TI / Desenvolvedor
+77,7,Estratégia digital,Gestão / Administração
+77,6,Digital Strategy,Gestão / Administração
+77,6,Digital Media,Negócios / Marketing
+77,6,Online Marketing,Negócios / Marketing
+77,5,Digital Marketing,Negócios / Marketing
+77,5,Web Analytics,TI / Desenvolvedor
+77,5,Marketing,Negócios / Marketing
+77,4,SEO,TI / Desenvolvedor
+77,4,Google Adwords,Informática / Softwares
+77,4,Publicidade online,Negócios / Marketing
+77,4,Planejamento estratégico,Gestão / Administração
+77,4,Marketing por e-mail,Negócios / Marketing
+77,4,Marketing social,Negócios / Marketing
+77,3,Mídias sociais,Negócios / Marketing
+77,3,Marketing Strategy,Negócios / Marketing
+77,3,SEO (Otimização de motores de busca),TI / Desenvolvedor
+77,2,Mobile Marketing,Negócios / Marketing
+77,2,Estratégia empresarial,Gestão / Administração
+77,2,Publicidade,Negócios / Marketing
+77,2,Mídia digital,Negócios / Marketing
+77,1,Gestão,Gestão / Administração
+77,1,Negociação,Negócios / Marketing
+78,48,User Experience,TI / Desenvolvedor
+78,36,Information Architecture,TI / Desenvolvedor
+78,24,E-commerce,Negócios / Marketing
+78,23,Experiência do usuário,TI / Desenvolvedor
+78,18,Front-end,TI / Desenvolvedor
+78,17,Web Analytics,TI / Desenvolvedor
+78,17,User Interface Design,TI / Desenvolvedor
+78,16,Usability,TI / Desenvolvedor
+78,14,Axure,Informática / Softwares
+78,14,Usability Testing,TI / Desenvolvedor
+78,13,Google Analytics,Informática / Softwares
+78,12,DOS,Informática / Softwares
+78,12,Comércio eletrônico,Negócios / Marketing
+78,11,Scrum,Gestão / Administração
+78,10,Interaction Design,Design / Artes
+78,10,SEO,TI / Desenvolvedor
+78,9,Digital Strategy,Gestão / Administração
+78,8,User Interface,TI / Desenvolvedor
+78,8,SEM,Negócios / Marketing
+78,7,Wireframes,Informática / Softwares
+78,7,Mobile Design,Informática / Softwares
+78,7,Web Design,TI / Desenvolvedor
+78,7,Agile Methodologies,Gestão / Administração
+78,6,User-centered Design,TI / Desenvolvedor
+78,5,Kanban,Informática / Softwares
+78,5,jQuery,Informática / Softwares
+78,4,Web Standards,TI / Desenvolvedor
+78,4,Usabilidade,TI / Desenvolvedor
+78,3,Mobile Applications,Informática / Softwares
+78,3,Sistema front-end,TI / Desenvolvedor
+78,3,Teste de usabilidade,TI / Desenvolvedor
+78,3,SEO (Otimização de motores de busca),TI / Desenvolvedor
+78,2,Web design,TI / Desenvolvedor
+78,2,JQuery,Informática / Softwares
+79,52,Linux,Informática / Softwares
+79,49,C++,Linguagem de Programação
+79,39,Python,Linguagem de Programação
+79,39,Scrum,Gestão / Administração
+79,32,C,Linguagem de Programação
+79,28,Software Engineering,Engenharia
+79,25,Qt,Informática / Softwares
+79,20,Git,Informática / Softwares
+79,16,Embedded Systems,TI / Desenvolvedor
+79,15,Shell Scripting,Informática / Softwares
+79,14,Swift,Informática / Softwares
+79,13,Objective-C,Linguagem de Programação
+79,10,Software Development,TI / Desenvolvedor
+79,8,iOS Development,Informática / Softwares
+79,7,Bash,Informática / Softwares
+79,6,Algorithms,Linguagem de Programação
+79,6,MySQL,Informática / Softwares
+79,3,Django,Informática / Softwares
+79,3,Web Development,TI / Desenvolvedor
+80,34,Scrum,Gestão / Administração
+80,16,Java,Linguagem de Programação
+80,13,Mobile Testing,Informática / Softwares
+80,13,Metodologias ágeis,Gestão / Administração
+80,12,Agile Methodologies,Gestão / Administração
+80,12,Automação de testes,TI / Desenvolvedor
+80,11,JIRA,Linguagem de Programação
+80,10,Bug Tracking,TI / Desenvolvedor
+80,9,TestLink,TI / Desenvolvedor
+80,8,Test Automation,TI / Desenvolvedor
+80,8,Eclipse,Informática / Softwares
+80,7,Windows Phone,Informática / Softwares
+80,6,Teamwork,Gestão / Administração
+80,6,Selenium,Informática / Softwares
+80,5,MySQL,Informática / Softwares
+80,3,Test Strategy,Gestão / Administração
+80,3,PostgreSQL,Informática / Softwares
+80,3,C#,Linguagem de Programação
+80,3,C++,Linguagem de Programação
+80,2,Brazilian Portuguese,Idiomas
+80,2,JMeter,Informática / Softwares
+80,2,Fitnesse,Informática / Softwares
+80,2,Microsoft Visual Studio,Informática / Softwares
+80,2,Engenharia de software,Engenharia
+80,2,Acompanhamento de bugs,TI / Desenvolvedor
+80,1,Automated Software Testing,TI / Desenvolvedor
+80,1,System Testing,TI / Desenvolvedor
+80,1,BDD,TI / Desenvolvedor
+80,1,Cucumber,Informática / Softwares
+80,1,Microsoft Test Manager,Informática / Softwares
+80,1,Team Foundation Server,Informática / Softwares
+80,1,Selenium Webdriver,Informática / Softwares
+80,11,Software Testing Process,TI / Desenvolvedor
+80,3,Cobertura for J2ME,Informática / Softwares
+80,3,Selenium RC/IDE,Informática / Softwares
+80,1,eFitnesse,Informática / Softwares
+80,1,JMUnit,Informática / Softwares
+80,1,Coded UI,Informática / Softwares
+80,1,Robotium,Informática / Softwares
+80,1,Monkeyrunner,Informática / Softwares
+80,1,Sikuli,Informática / Softwares
+81,15,Valuation,Negócios / Marketing
+81,15,Corporate Finance,Negócios / Marketing
+81,12,Financial Modeling,Negócios / Marketing
+81,10,Finance,Negócios / Marketing
+81,7,Capital Markets,Negócios / Marketing
+81,4,VBA,TI / Desenvolvedor
+81,3,PowerPoint,Informática / Softwares
+81,2,Data Analysis,TI / Desenvolvedor
+82,4,Scrum,Gestão / Administração
+82,3,Engenharia de software,Engenharia
+82,3,MySQL,Informática / Softwares
+82,3,UML,Linguagem de Programação
+82,3,Java,Linguagem de Programação
+82,2,C (linguagem de programação),Linguagem de Programação
+82,2,Desenvolvimento de produtos,TI / Desenvolvedor
+82,2,Frameworks PHP,Informática / Softwares
+82,2,Desenvolvimento para iOS,Informática / Softwares
+82,2,PHP,Linguagem de Programação
+82,2,Linux,Informática / Softwares
+82,1,Swift,Informática / Softwares
+82,1,SQL,Linguagem de Programação
+82,1,JavaScript,Linguagem de Programação
+82,1,HTML,Linguagem de Programação
+82,1,CSS,Informática / Softwares
+82,1,Liderança de equipe,Comportamento / Social
+82,1,Metodologias ágeis,Gestão / Administração
+82,1,Git,Informática / Softwares
+82,1,Android,Informática / Softwares
+82,1,HTML5,Linguagem de Programação
+82,1,Desenvolvimento de sites,TI / Desenvolvedor
+82,Não Informado,Desenvolvimento de software,TI / Desenvolvedor
+82,Não Informado,C,Linguagem de Programação
+82,Não Informado,Sistemas operacionais,TI / Desenvolvedor
+82,Não Informado,Programação de computadores,Linguagem de Programação
+82,1,Tétriz,Informática / Softwares
+83,5,Desenvolvimento Android,Informática / Softwares
+83,5,Java,Linguagem de Programação
+83,3,C#,Linguagem de Programação
+83,1,SQL,Linguagem de Programação
+83,2,PHP,Linguagem de Programação
+83,2,MySQL,Informática / Softwares
+83,1,Microsoft SQL Server,Informática / Softwares
+83,2,Visual Basic,Informática / Softwares
+83,1,Programming Languages,Linguagem de Programação
+83,1,Software Development,TI / Desenvolvedor
+83,1,Development Programming,TI / Desenvolvedor
+83,1,HTML,Linguagem de Programação
+83,2,C++,Linguagem de Programação
+83,2,HTML 5,Linguagem de Programação
+83,2,C,Linguagem de Programação
+83,1,Python,Linguagem de Programação
+83,1,Prolog,Linguagem de Programação
+83,1,Delphi,Informática / Softwares
+83,1,PostgreSQL,Informática / Softwares
+84,9,Linux,Informática / Softwares
+84,6,C++,Linguagem de Programação
+84,5,PHP,Linguagem de Programação
+84,5,C (linguagem de programação),Linguagem de Programação
+84,4,MySQL,Informática / Softwares
+84,4,JavaScript,Linguagem de Programação
+84,4,SQL,Linguagem de Programação
+84,3,HTML,Linguagem de Programação
+84,3,Scrum,Gestão / Administração
+84,2,Software Development,TI / Desenvolvedor
+84,2,Python,Linguagem de Programação
+84,1,Desenvolvimento de software,TI / Desenvolvedor
+85,3,Inglês,Idiomas
+85,4,Swift,Informática / Softwares
+85,4,iOS,Informática / Softwares
+85,2,CBL,Linguagem de Programação
+85,Não Informado,Objective-C,Linguagem de Programação
+85,3,Scrum,Gestão / Administração
+86,11,Android Development,Informática / Softwares
+86,10,MySQL,Informática / Softwares
+86,9,PHP,Linguagem de Programação
+86,9,JavaScript,Linguagem de Programação
+86,7,Scrum,Gestão / Administração
+86,7,Desenvolvimento Android,Informática / Softwares
+86,6,SQL,Linguagem de Programação
+86,5,Digital TV,Informática / Softwares
+86,5,Java Enterprise Edition,Linguagem de Programação
+86,5,Linux,Informática / Softwares
+86,4,HTML,Linguagem de Programação
+86,4,C++,Linguagem de Programação
+86,3,JavaSE,Linguagem de Programação
+86,3,Lua,Informática / Softwares
+86,3,phpMyAdmin,Informática / Softwares
+86,3,SQLite,Linguagem de Programação
+86,3,CSS,Informática / Softwares
+86,3,EJB,Informática / Softwares
+86,3,JSF,Informática / Softwares
+86,3,JDBC,Informática / Softwares
+86,3,Data Mining,TI / Desenvolvedor
+86,3,Java,Linguagem de Programação
+86,2,Oracle SQL,Informática / Softwares
+86,2,DHTML,TI / Desenvolvedor
+86,2,Windows,Informática / Softwares
+86,2,JPA,Informática / Softwares
+86,2,Information Retrieval,TI / Desenvolvedor
+86,2,Machine Learning,TI / Desenvolvedor
+86,2,UML,Linguagem de Programação
+86,2,Python,Linguagem de Programação
+86,3,Context Sensitive Solutions,TI / Desenvolvedor
+86,3,ITS,TI / Desenvolvedor
+86,2,Chrome Extensions,Informática / Softwares
+86,1,Unified Modeling Language (UML),Linguagem de Programação
+87,3,C++,Linguagem de Programação
+87,3,Python,Linguagem de Programação
+87,6,Java,Linguagem de Programação
+87,3,MySQL,Informática / Softwares
+88,12,Java,Linguagem de Programação
+88,9,SQL,Linguagem de Programação
+88,8,Microsoft SQL Server,Informática / Softwares
+88,8,C (linguagem de programação),Linguagem de Programação
+88,7,MySQL,Informática / Softwares
+88,6,Objective-C,Linguagem de Programação
+88,6,Desenvolvimento de software,TI / Desenvolvedor
+88,5,Visual Basic,Informática / Softwares
+88,4,C,Linguagem de Programação
+88,4,Software Development,TI / Desenvolvedor
+88,4,C++,Linguagem de Programação
+88,4,Scrum,Gestão / Administração
+88,3,C#,Linguagem de Programação
+88,3,CSS,Informática / Softwares
+88,3,HTML,Linguagem de Programação
+88,3,Swift,Informática / Softwares
+88,3,Microsoft Office,Informática / Softwares
+88,2,JSON,Linguagem de Programação
+88,2,J2ME,Informática / Softwares
+88,2,LaTeX,Informática / Softwares
+88,2,Prolog,Linguagem de Programação
+88,2,Python,Linguagem de Programação
+88,1,Jade,Informática / Softwares
+88,1,JavaScript,Linguagem de Programação
+88,3,Object Pascal,Linguagem de Programação
+88,2,SML,Informática / Softwares
+89,1,Inglês,Idiomas
+89,Não Informado,Microsoft Office,Informática / Softwares
+89,Não Informado,Microsoft PowerPoint,Informática / Softwares
+89,Não Informado,Microsoft Word,Informática / Softwares
+89,Não Informado,Engenharia,Engenharia
+89,Não Informado,Engenharia de processos,Engenharia
+90,21,Scrum,Gestão / Administração
+90,20,Sistemas operacionais,TI / Desenvolvedor
+90,19,SQL,Linguagem de Programação
+90,17,Linux,Informática / Softwares
+90,16,MySQL,Informática / Softwares
+90,10,PostgreSQL,Informática / Softwares
+90,9,Operating Systems,TI / Desenvolvedor
+90,8,Java,Linguagem de Programação
+90,7,UML,Linguagem de Programação
+90,7,Shell script,Informática / Softwares
+90,5,Microsoft Project,Gestão / Administração
+90,4,Database Administration,TI / Desenvolvedor
+90,4,Databases,TI / Desenvolvedor
+90,4,Delphi,Informática / Softwares
+90,4,Software Development,TI / Desenvolvedor
+90,4,Banco de dados,TI / Desenvolvedor
+90,3,Shell Scripting,Informática / Softwares
+90,3,IT Management,Gestão / Administração
+90,3,Gestão de TI,Gestão / Administração
+90,2,JSF,Informática / Softwares
+90,2,C/C++,Linguagem de Programação
+90,2,Visual Basic 5.0/6.0,Informática / Softwares
+90,2,FreeBSD,Informática / Softwares
+90,2,ETL,TI / Desenvolvedor
+90,2,Data Warehousing,TI / Desenvolvedor
+90,2,XML,Linguagem de Programação
+90,2,Windows,Informática / Softwares
+90,2,Windows Server,Informática / Softwares
+90,2,Unix Shell Scripting,Informática / Softwares
+90,2,Debian,Informática / Softwares
+90,2,Visual Basic,Informática / Softwares
+90,1,Ubuntu,Informática / Softwares
+90,1,CVS,Informática / Softwares
+90,1,VMware,Informática / Softwares
+90,1,Amazon EC2,Informática / Softwares
+90,1,Pentaho,Informática / Softwares
+90,1,"ETL (Extração, transformação e carregamento)",TI / Desenvolvedor
+90,Não Informado,MS Project,Gestão / Administração
+90,Não Informado,R,Linguagem de Programação
+90,Não Informado,Data Mining,TI / Desenvolvedor
+90,Não Informado,BMC Remedy,TI / Desenvolvedor
+90,Não Informado,Zabbix,Informática / Softwares
+90,Não Informado,Nagios,Informática / Softwares
+90,Não Informado,Barman (Backup and Recovery Manager) - PostgreSQL,Informática / Softwares
+90,Não Informado,Hyperic HQ,Informática / Softwares
+91,31,Marketing digital,Negócios / Marketing
+91,23,Google AdWords,Informática / Softwares
+91,22,Google Analytics,Informática / Softwares
+91,17,Digital Marketing,Negócios / Marketing
+91,20,Marketing de motor de busca,Negócios / Marketing
+91,40,Mídias sociais,Negócios / Marketing
+91,28,Marketing,Negócios / Marketing
+91,21,Estratégias de marketing,Negócios / Marketing
+91,13,Social Media,Negócios / Marketing
+91,15,Marketing social,Negócios / Marketing
+91,9,Marketing online,Negócios / Marketing
+91,12,SEO (Otimização de motores de busca),TI / Desenvolvedor
+91,8,Planejamento estratégico,Gestão / Administração
+91,6,SEM,Negócios / Marketing
+91,6,Publicidade,Negócios / Marketing
+91,7,Publicidade online,Negócios / Marketing
+91,7,Social Media Marketing,Negócios / Marketing
+91,6,Marketing Strategy,Negócios / Marketing
+91,3,Graphic Design,Design / Artes
+91,3,Adobe Creative Suite,Informática / Softwares
+91,4,Advertising,Negócios / Marketing
+91,3,Comunicações de marketing,Negócios / Marketing
+91,3,SEO,TI / Desenvolvedor
+91,2,Web Design,TI / Desenvolvedor
+91,2,Runrun.it,Informática / Softwares
+91,3,Estratégia empresarial,Gestão / Administração
+91,1,Marketing de Conteúdo,Negócios / Marketing
+93,16,Negociação,Negócios / Marketing
+93,15,Gestão,Gestão / Administração
+93,15,Planejamento estratégico,Gestão / Administração
+93,12,Microsoft Excel,Informática / Softwares
+93,11,Microsoft Office,Informática / Softwares
+93,10,Inteligência empresarial,Gestão / Administração
+93,7,Marketing,Negócios / Marketing
+93,6,Vendas,Negócios / Marketing
+93,5,Gestão de equipes,Gestão / Administração
+93,5,Microsoft Word,Informática / Softwares
+93,4,Negotiation,Negócios / Marketing
+93,4,Empresas startups,Empreendedorismo
+93,2,Trade Marketing,Negócios / Marketing
+93,2,Strategic Planning,Gestão / Administração
+93,2,Marketing comercial,Negócios / Marketing
+93,2,Pré-vendas,Negócios / Marketing
+93,2,Centrais de atendimento,Negócios / Marketing
+93,1,Business Intelligence,Negócios / Marketing
+93,1,Call Centers,Negócios / Marketing
+93,1,Team Management,Gestão / Administração
+93,1,Management,Gestão / Administração
+93,1,Pre-sales,Negócios / Marketing
+93,1,Start-ups,Empreendedorismo
+93,1,Estratégia empresarial,Gestão / Administração
+94,24,Market Planning,Negócios / Marketing
+94,23,Marketing Strategy,Negócios / Marketing
+94,23,Operating Systems,TI / Desenvolvedor
+94,19,Digital Marketing,Negócios / Marketing
+94,15,DOS,Informática / Softwares
+94,14,Trade Marketing,Negócios / Marketing
+94,13,E-commerce,Negócios / Marketing
+94,11,Sales,Negócios / Marketing
+94,9,Negotiation,Negócios / Marketing
+94,8,Sales Management,Negócios / Marketing
+94,6,Online Advertising,Negócios / Marketing
+94,4,Marketing Management,Negócios / Marketing
+94,4,Market Analysis,Negócios / Marketing
+94,3,Business Planning,Negócios / Marketing
+94,2,Recruiting,Gestão / Administração
+94,2,Strategic Sales,Negócios / Marketing
+95,10,Consulting,Gestão / Administração
+95,9,Management Consulting,Gestão / Administração
+95,4,Business Strategy,Negócios / Marketing
+95,12,Chemical Engineering,Engenharia
+95,11,Software Development,TI / Desenvolvedor
+95,11,VBA,TI / Desenvolvedor
+95,8,Microsoft Excel,Informática / Softwares
+95,6,Management,Gestão / Administração
+95,8,Process Engineering,Engenharia
+95,8,Metallurgy,Engenharia
+95,6,Team Leadership,Gestão / Administração
+96,32,Business Strategy,Negócios / Marketing
+96,29,E-commerce,Negócios / Marketing
+96,26,Business Intelligence,Negócios / Marketing
+96,19,Start-ups,Empreendedorismo
+96,19,Entrepreneurship,Empreendedorismo
+96,15,Scrum,Gestão / Administração
+96,15,Cloud Computing,TI / Desenvolvedor
+96,15,Project Management,Gestão / Administração
+96,14,Strategic Planning,Gestão / Administração
+96,11,Business Analysis,Negócios / Marketing
+96,11,Business Planning,Negócios / Marketing
+96,9,Team Leadership,Gestão / Administração
+96,6,ITIL,TI / Desenvolvedor
+96,5,IT Management,Gestão / Administração
+96,5,Strategy,Gestão / Administração
+96,4,Information Security,TI / Desenvolvedor
+96,3,COBIT,TI / Desenvolvedor
+96,3,PHP,Linguagem de Programação
+96,2,Mobile Applications,Informática / Softwares
+96,2,Outsourcing,TI / Desenvolvedor
+96,2,Digital Marketing,Negócios / Marketing
+96,1,PMI,Gestão / Administração
+96,1,ERP,Gestão / Administração
+96,1,Business Process Improvement,Negócios / Marketing
+96,1,Agile Methodologies,Gestão / Administração
+96,2,Governance,Comportamento / Social
+97,15,Negociação,Negócios / Marketing
+97,10,B2B,Negócios / Marketing
+97,10,Estratégia empresarial,Gestão / Administração
+97,7,Business Strategy,Negócios / Marketing
+97,7,Negotiation,Negócios / Marketing
+97,7,Estratégias de marketing,Negócios / Marketing
+97,6,Marketing Strategy,Negócios / Marketing
+97,6,Gestão de vendas,Negócios / Marketing
+97,5,Gestão,Gestão / Administração
+97,5,Vendas,Negócios / Marketing
+97,5,Planejamento estratégico,Gestão / Administração
+97,4,Microsoft Office,Informática / Softwares
+97,3,Desenvolvimento de novos negócios,Negócios / Marketing
+97,3,Liderança de equipe,Comportamento / Social
+97,2,Marketing digital,Negócios / Marketing
+97,2,Microsoft Word,Informática / Softwares
+97,2,Sales Management,Negócios / Marketing
+97,2,Microsoft PowerPoint,Informática / Softwares
+97,2,PowerPoint,Informática / Softwares
+97,1,Inglês,Idiomas
+97,1,Desenvolvimento empresarial,Gestão / Administração
+97,1,Salesforce.com,Negócios / Marketing
+97,Não Informado,New Business Development,Negócios / Marketing
+97,Não Informado,Business Development,Negócios / Marketing
+98,6,Microsoft Office,Informática / Softwares
+98,5,Microsoft PowerPoint,Informática / Softwares
+98,4,Microsoft Word,Informática / Softwares
+98,3,Liderança de equipe,Comportamento / Social
+98,2,Oratória,Oratória / Escrita
+98,2,Liderança,Comportamento / Social
+98,1,Microsoft Excel,Informática / Softwares
+98,1,Management,Gestão / Administração
+98,Não Informado,Pesquisa,Negócios / Marketing
+98,Não Informado,Sales Operations,Negócios / Marketing
+99,8,E-commerce,Negócios / Marketing
+99,6,Digital Marketing,Negócios / Marketing
+99,5,DAS,Empreendedorismo
+99,5,Business Strategy,Negócios / Marketing
+99,5,Business Planning,Negócios / Marketing
+99,4,Portuguese,Idiomas
+99,4,Online Advertising,Negócios / Marketing
+99,4,Marketing Strategy,Negócios / Marketing
+99,4,Market Planning,Negócios / Marketing
+99,3,Trade Marketing,Negócios / Marketing
+99,3,Marketing Management,Negócios / Marketing
+99,3,Operating Systems,TI / Desenvolvedor
+99,2,Strategic Planning,Gestão / Administração
+99,2,Negotiation,Negócios / Marketing
+99,2,Management,Gestão / Administração
+99,2,Team Leadership,Gestão / Administração
+99,2,Sales Management,Negócios / Marketing
+99,2,Microsoft Office,Informática / Softwares
+99,2,English,Idiomas
+99,2,Social Media Marketing,Negócios / Marketing
+99,2,PowerPoint,Informática / Softwares
+100,41,Sistemas operacionais,TI / Desenvolvedor
+100,29,Gestão,Gestão / Administração
+100,20,Negociação,Negócios / Marketing
+100,18,Marketing digital,Negócios / Marketing
+100,18,ERP (Planejamento de recursos empresariais),Gestão / Administração
+100,16,Estratégia empresarial,Gestão / Administração
+100,15,Planejamento estratégico,Gestão / Administração
+100,13,Empresas startups,Empreendedorismo
+100,12,Vendas,Negócios / Marketing
+100,12,Planejamento empresarial,Gestão / Administração
+100,9,Operating Systems,TI / Desenvolvedor
+100,7,Gestão de vendas,Negócios / Marketing
+100,5,Gestão de relação de clientes,Negócios / Marketing
+100,5,Management,Gestão / Administração
+100,5,Negotiation,Negócios / Marketing
+100,4,Sales Management,Negócios / Marketing
+100,4,Digital Marketing,Negócios / Marketing
+100,4,Venda de soluções de software,TI / Desenvolvedor
+100,3,Microsoft CRM,Gestão / Administração
+100,3,Web 2.0,TI / Desenvolvedor
+100,3,Start-ups,Empreendedorismo
+100,2,Web Analytics,TI / Desenvolvedor
+100,2,Web Design,TI / Desenvolvedor
+100,2,Vendor Management,Negócios / Marketing
+100,2,Vendor Relations,Negócios / Marketing
+100,2,Pre-sales Technical Support,Negócios / Marketing
+100,2,Google Adwords,Informática / Softwares
+100,2,Google Analytics,Informática / Softwares
+100,2,IT Outsourcing,TI / Desenvolvedor
+100,2,Mobile Telecommunications,Negócios / Marketing
+100,2,Corporate Management,Gestão / Administração
+100,2,Key Account Management,Gestão / Administração
+100,2,Field Marketing,Negócios / Marketing
+100,2,Sales Representatives,Negócios / Marketing
+100,2,Insurance,Negócios / Marketing
+100,2,Social Media,Negócios / Marketing
+100,2,Social Media Marketing,Negócios / Marketing
+100,2,ERP,Gestão / Administração
+100,2,Business Coaching,Negócios / Marketing
+100,2,Coaching,Gestão / Administração
+100,2,Executive Coaching,Gestão / Administração
+100,2,Solution Selling,Negócios / Marketing
+100,2,Selling Skills,Comportamento / Social
+100,2,Sales,Negócios / Marketing
+100,2,Sales Process,Negócios / Marketing
+100,2,Social Skills,Comportamento / Social
+100,1,SEO,TI / Desenvolvedor
+100,1,Direct Sales,Negócios / Marketing
+100,3,ERP/CRM,Gestão / Administração
+100,2,Solutions Selling,Negócios / Marketing
+101,25,Marketing digital,Negócios / Marketing
+101,23,Sistemas operacionais,TI / Desenvolvedor
+101,15,Comércio eletrônico,Negócios / Marketing
+101,14,Estratégias de marketing,Negócios / Marketing
+101,10,Publicidade online,Negócios / Marketing
+101,8,Digital Marketing,Negócios / Marketing
+101,7,Marketing,Negócios / Marketing
+101,3,Online Advertising,Negócios / Marketing
+102,5,Marketing,Negócios / Marketing
+102,5,Gestão,Gestão / Administração
+102,4,Publicidade online,Negócios / Marketing
+102,3,Atendimento ao Cliente,Negócios / Marketing
+102,2,Marketing digital,Negócios / Marketing
+102,2,Microsoft Office,Informática / Softwares
+102,2,Mídias sociais,Negócios / Marketing
+102,2,Comércio eletrônico,Negócios / Marketing
+102,2,Liderança,Comportamento / Social
+102,2,Gestão de projetos,Gestão / Administração
+102,2,Administração,Gestão / Administração
+102,2,Microsoft Word,Informática / Softwares
+102,2,Microsoft Excel,Informática / Softwares
+103,28,Estratégias de marketing,Negócios / Marketing
+103,22,Planejamento estratégico,Gestão / Administração
+103,11,Publicidade online,Negócios / Marketing
+103,17,Estratégia empresarial,Gestão / Administração
+103,14,Negociação,Negócios / Marketing
+103,10,Marketing,Negócios / Marketing
+103,6,Marketing online,Negócios / Marketing
+103,1,Empresas startups,Empreendedorismo
+103,7,Microsoft PowerPoint,Informática / Softwares
+103,3,Marketing Strategy,Negócios / Marketing
+103,1,Digital Marketing,Negócios / Marketing
+103,4,Business Strategy,Negócios / Marketing
+103,2,Online Advertising,Negócios / Marketing
+103,1,E-commerce,Negócios / Marketing
+103,5,Negotiation,Negócios / Marketing
+103,2,Strategic Planning,Gestão / Administração
+103,5,Comércio eletrônico,Negócios / Marketing
+103,6,Marketing digital,Negócios / Marketing
+103,5,Liderança de equipe,Comportamento / Social
+103,4,Gestão de vendas,Negócios / Marketing
+103,3,Inglês,Idiomas
+103,3,Consultoria de gestão,Gestão / Administração
+103,3,Terceirização de serviços,Gestão / Administração
+103,3,Mídias sociais,Negócios / Marketing
+103,6,Estratégia,Gestão / Administração
+103,2,Sales Management,Negócios / Marketing
+103,2,Team Leadership,Gestão / Administração
+103,1,Social Media,Negócios / Marketing
+103,1,Marketing por e-mail,Negócios / Marketing
+103,1,Administração,Gestão / Administração
+103,2,Strategy,Gestão / Administração
+103,4,Microsoft Office,Informática / Softwares
+103,2,Consultoria,Gestão / Administração
+103,3,Gestão,Gestão / Administração
+103,2,Vendas,Negócios / Marketing
+103,2,Marketing social,Negócios / Marketing
+103,1,Integração,Gestão / Administração
+104,8,PMO,Gestão / Administração
+104,5,ITIL,TI / Desenvolvedor
+104,3,Microsoft Excel,Informática / Softwares
+104,2,Strategic Planning,Gestão / Administração
+104,2,Business Planning,Negócios / Marketing
+104,2,English,Idiomas
+104,2,Team Leadership,Gestão / Administração
+104,2,Operating Systems,TI / Desenvolvedor
+104,1,Marketing Strategy,Negócios / Marketing
+104,Não Informado,Pre-sales,Negócios / Marketing
+104,Não Informado,Marketing,Negócios / Marketing
+104,Não Informado,Microsoft Office,Informática / Softwares
+104,Não Informado,Teamwork,Gestão / Administração
+104,Não Informado,Management,Gestão / Administração
+104,Não Informado,Business Strategy,Negócios / Marketing
+104,Não Informado,Customer Service,Negócios / Marketing
+104,Não Informado,Quality Management,Gestão / Administração
+104,Não Informado,Business Intelligence,Negócios / Marketing
+104,Não Informado,Sales & Marketing,Negócios / Marketing
+104,Não Informado,Sports,Educação
+104,Não Informado,Business Analysis,Negócios / Marketing
+104,Não Informado,Data Analysis,TI / Desenvolvedor
+104,Não Informado,Planning,Gestão / Administração
+105,7,Python,Linguagem de Programação
+105,2,Docker,Informática / Softwares
+105,18,Linux,Informática / Softwares
+105,Não Informado,Rancher,Informática / Softwares
+105,Não Informado,Continuous Integration,Gestão / Administração
+105,9,Web Development,TI / Desenvolvedor
+105,7,HTML 5,Linguagem de Programação
+105,17,JavaScript,Linguagem de Programação
+105,4,AngularJS,Informática / Softwares
+105,16,PHP,Linguagem de Programação
+105,1,Silex,Informática / Softwares
+105,3,Django,Informática / Softwares
+105,6,PHPUnit,Informática / Softwares
+105,7,CSS3,Informática / Softwares
+105,4,Jasmine,Informática / Softwares
+105,13,MySQL,Informática / Softwares
+105,7,Apache,Informática / Softwares
+105,5,front-end,TI / Desenvolvedor
+105,4,jQuery,Informática / Softwares
+105,7,Wordpress,
+105,2,Dojo,Linguagem de Programação
+105,3,Amazon S3,Informática / Softwares
+105,4,Amazon EC2,Informática / Softwares
+105,4,CSS,Informática / Softwares
+105,5,Git,Informática / Softwares
+105,1,Doctrine,Informática / Softwares
+105,4,Kanban,Informática / Softwares
+105,3,Scrum,Gestão / Administração
+106,5,Planejamento estratégico,Gestão / Administração
+106,5,Negociação,Negócios / Marketing
+106,5,Liderança de equipe,Comportamento / Social
+106,5,Microsoft Excel,Informática / Softwares
+106,5,Gestão,Gestão / Administração
+106,4,Microsoft Office,Informática / Softwares
+106,4,Estratégia empresarial,Gestão / Administração
+106,4,Microsoft PowerPoint,Informática / Softwares
+106,4,Gestão de vendas,Negócios / Marketing
+106,4,Atendimento ao Cliente,Negócios / Marketing
+106,4,Vendas,Negócios / Marketing
+106,3,Planejamento empresarial,Gestão / Administração
+106,2,Estratégias de marketing,Negócios / Marketing
+107,4,Microsoft Excel,Informática / Softwares
+107,4,Salesforce.com,Negócios / Marketing
+107,2,Microsoft PowerPoint,Informática / Softwares
+107,2,Atendimento ao cliente,Negócios / Marketing
+107,1,CRM Solve360,Gestão / Administração
+107,1,Exact Sales,Negócios / Marketing
+107,Não Informado,Inglês básico,Idiomas
+109,54,Negociação,Negócios / Marketing
+109,36,Gestão de vendas,Negócios / Marketing
+109,32,Gestão,Gestão / Administração
+109,24,Marketing digital,Negócios / Marketing
+109,18,Estratégia empresarial,Gestão / Administração
+109,17,Estratégias de marketing,Negócios / Marketing
+109,13,Liderança de equipe,Comportamento / Social
+109,10,Marketing,Negócios / Marketing
+109,9,Vendas,Negócios / Marketing
+109,8,Planejamento estratégico,Gestão / Administração
+109,6,Gestão de contas,Gestão / Administração
+109,6,Salesforce.com,Negócios / Marketing
+109,6,Comércio eletrônico,Negócios / Marketing
+109,5,Negotiation,Negócios / Marketing
+109,4,Sales Management,Negócios / Marketing
+109,4,Mídias sociais,Negócios / Marketing
+109,3,Digital Marketing,Negócios / Marketing
+109,3,Planejamento empresarial,Gestão / Administração
+109,3,Management,Gestão / Administração
+109,2,Social Media,Negócios / Marketing
+109,2,Social Media Marketing,Negócios / Marketing
+109,2,Processo de venda,Negócios / Marketing
+109,2,Publicidade online,Negócios / Marketing
+109,2,Marketing social,Negócios / Marketing
+109,2,Computação em nuvem,Linguagem de Programação
+109,1,Excel,Informática / Softwares
+109,1,Windows,Informática / Softwares
+109,1,Online Marketing,Negócios / Marketing
+109,1,Venda de soluções de software,TI / Desenvolvedor
+109,1,Operações de vendas,Negócios / Marketing
+109,1,Team Leadership,Gestão / Administração
+109,1,Microsoft Office,Informática / Softwares
+109,1,Estratégia,Gestão / Administração
+109,1,SEO (Otimização de motores de busca),TI / Desenvolvedor
+109,1,Business Planning,Negócios / Marketing
+109,Não Informado,Sales Management Coaching,Negócios / Marketing
+109,Não Informado,Empresas startups,Empreendedorismo
+109,Não Informado,Gestão de relação de clientes,Negócios / Marketing
+109,Não Informado,Publicidade,Negócios / Marketing

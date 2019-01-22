@@ -1,0 +1,112 @@
+perfil_id,escolaridade_numero,area,duracao,escolaridade
+0,4,Gestão / Negócios,menos de 1 ano,Pós-Graduação
+1,4,Gestão / Negócios,menos de 1 ano,Pós-Graduação
+2,3,TI,3.0,Graduação
+3,3,Engenharia,5.0,Graduação
+4,3,Engenharia,5.0,Graduação
+5,4,Economia / Finanças,menos de 1 ano,Pós-Graduação
+6,4,TI,6.0,Pós-Graduação
+7,3,Gestão / Negócios,3.0,Graduação
+8,4,Gestão / Negócios,menos de 1 ano,Pós-Graduação
+9,4,Gestão / Negócios,menos de 1 ano,Pós-Graduação
+10,3,Engenharia,10.0,Graduação
+11,3,Comunicação / Publicidade,4.0,Graduação
+12,3,Engenharia,5.0,Graduação
+13,3,Comunicação / Publicidade,4.0,Graduação
+14,4,Gestão / Negócios,menos de 1 ano,Pós-Graduação
+15,3,Gestão / Negócios,4.0,Graduação
+16,4,Gestão / Negócios,2.0,Pós-Graduação
+17,3,Design / Arte,4.0,Graduação
+18,4,Gestão / Negócios,2.0,Pós-Graduação
+19,3,Engenharia,4.0,Graduação
+20,3,Economia / Finanças,3.0,Graduação
+21,4,Idioma,menos de 1 ano,Pós-Graduação
+22,4,Gestão / Negócios,1.0,Pós-Graduação
+23,3,Engenharia,5.0,Graduação
+24,4,TI,2.0,Pós-Graduação
+25,3,Engenharia,5.0,Graduação
+26,3,Comunicação / Publicidade,4.0,Graduação
+27,3,Comunicação / Publicidade,4.0,Graduação
+28,3,Comunicação / Publicidade,7,Graduação
+29,4,TI,2.0,Pós-Graduação
+30,3,Engenharia,6.0,Graduação
+31,3,TI,4.0,Graduação
+32,3,Gestão / Negócios,2.0,Graduação
+33,4,TI,1.0,Pós-Graduação
+34,4,TI,3.0,Pós-Graduação
+35,4,TI,4.0,Pós-Graduação
+36,4,Economia / Finanças,menos de 1 ano,Pós-Graduação
+37,3,TI,4.0,Graduação
+38,3,TI,3.0,Graduação
+39,4,TI,1.0,Pós-Graduação
+40,4,TI,1.0,Pós-Graduação
+41,3,Gestão / Negócios,4.0,Graduação
+42,4,Comunicação / Publicidade,menos de 1 ano,Pós-Graduação
+43,3,Economia / Finanças,4.0,Graduação
+44,2,TI,3.0,Técnico
+45,3,TI,menos de 1 ano,Graduação
+46,3,Engenharia,5.0,Graduação
+47,3,Psicologia,5.0,Graduação
+48,4,Direito,1.0,Pós-Graduação
+49,4,TI,3.0,Pós-Graduação
+50,4,Gestão / Negócios,1.0,Pós-Graduação
+51,3,Economia / Finanças,4.0,Graduação
+52,3,TI,4.0,Graduação
+53,3,Comunicação / Publicidade,4.0,Graduação
+54,3,Gestão / Negócios,3.0,Graduação
+55,3,Comunicação / Publicidade,3.0,Graduação
+56,3,Comunicação / Publicidade,3.0,Graduação
+57,3,TI,3.0,Graduação
+58,3,Psicologia,5,Graduação
+59,3,Economia / Finanças,4.0,Graduação
+60,3,TI,1.0,Graduação
+61,3,Engenharia,6.0,Graduação
+62,4,Comunicação / Publicidade,1.0,Pós-Graduação
+63,4,Engenharia,1.0,Pós-Graduação
+64,4,Gestão / Negócios,1.0,Pós-Graduação
+65,4,Gestão / Negócios,1.0,Pós-Graduação
+66,4,Economia / Finanças,1.0,Pós-Graduação
+67,4,Comunicação / Publicidade,1.0,Pós-Graduação
+68,3,Economia / Finanças,3.0,Graduação
+69,3,Comunicação / Publicidade,3.0,Graduação
+70,3,Gestão / Negócios,4.0,Graduação
+71,3,Comunicação / Publicidade,4.0,Graduação
+72,4,Comunicação / Publicidade,5.0,Pós-Graduação
+73,3,TI,3.0,Graduação
+74,3,Gestão / Negócios,4.0,Graduação
+75,4,Gestão / Negócios,menos de 1 ano,Pós-Graduação
+76,4,Gestão / Negócios,1.0,Pós-Graduação
+77,4,Comunicação / Publicidade,2.0,Pós-Graduação
+78,3,Comunicação / Publicidade,4.0,Graduação
+79,4,TI,2.0,Pós-Graduação
+80,3,Engenharia,5.0,Graduação
+81,4,TI,1.0,Pós-Graduação
+82,3,TI,4.0,Graduação
+83,3,TI,3.0,Graduação
+84,3,Engenharia,4.0,Graduação
+85,3,Engenharia,5.0,Graduação
+86,4,TI,2.0,Pós-Graduação
+87,3,Engenharia,5.0,Graduação
+88,3,TI,4.0,Graduação
+89,3,Engenharia,7,Graduação
+90,4,Engenharia,menos de 1 ano,Pós-Graduação
+91,4,Comunicação / Publicidade,menos de 1 ano,Pós-Graduação
+92,3,Comunicação / Publicidade,4.0,Graduação
+93,3,TI,Não Informado,Graduação
+94,4,Gestão / Negócios,1.0,Pós-Graduação
+95,3,Engenharia,5.0,Graduação
+96,3,Economia / Finanças,3.0,Graduação
+97,4,Comunicação / Publicidade,menos de 1 ano,Pós-Graduação
+98,4,Engenharia,menos de 1 ano,Pós-Graduação
+99,4,Economia / Finanças,2.0,Pós-Graduação
+100,4,Comunicação / Publicidade,1.0,Pós-Graduação
+101,3,Psicologia,menos de 1 ano,Graduação
+102,3,Gestão / Negócios,3.0,Graduação
+103,4,Comunicação / Publicidade,1.0,Pós-Graduação
+104,4,Comunicação / Publicidade,1.0,Pós-Graduação
+105,3,TI,4.0,Graduação
+106,4,Gestão / Negócios,2.0,Pós-Graduação
+107,3,Gestão / Negócios,4.0,Graduação
+108,3,Direito,9.0,Graduação
+109,4,Comunicação / Publicidade,1.0,Pós-Graduação
+110,3,TI,4.0,Graduação

@@ -1,0 +1,111 @@
+perfil_id,cargo_atual,data_admissao,departamento,tempo_empresa_meses_trojan,tempo_mercado_meses,qtd_empregos
+0,CEO and Founder,2011-09-01,Administrativo,72.0,136.0,5
+1,Product Manager,2017-07-01,Administrativo,6.0,24.0,5
+2,Full Stack Developer,2016-11-01,Desenvolvedor / Programador,10.0,42.0,5
+3,CRM Analyst,2017-08-01,Comercial,6.0,11.0,3
+4,Sales Operations Coordinator,2017-03-01,Comercial,11.0,12.0,5
+5,Key Account Manager,2016-07-01,Comercial,27.0,113.0,5
+6,Software Engineer and Data Scientist,2016-11-01,Engenharia,20.0,204.0,5
+7,Aprediz administrativo,2017-04-01,Administrativo,5.0,23.0,2
+8,Founder and CFO,2011-01-01,Administrativo,80.0,136.0,5
+9,Sales Operations Manager,2016-08-01,Comercial,35.0,55.0,3
+10,Head of In-Store Operation,2017-05-01,Administrativo,28.0,127.0,5
+11,People Consultant,2017-09-01,Recursos Humanos,29.0,32.0,5
+12,Operações ERP,2017-09-01,Administrativo,18.0,36.0,5
+13,Estagiária de CRM,2017-08-01,Comercial,8.0,26.0,5
+14,Product Manager,2017-05-01,Administrativo,12.0,25.0,5
+15,Key Account,2017-03-01,Comercial,6.0,61.0,5
+16,Head of People,2017-09-01,Recursos Humanos,5.0,33.0,5
+17,Public Relations Intern,2017-08-01,Recursos Humanos,7.0,17.0,3
+18,Trade Marketing Analyst,2017-07-01,Comercial,11.0,22.0,5
+19,Customer Success - Intern,2017-03-01,Comercial,6.0,45.0,3
+20,Time de Expansão,2017-01-01,Recursos Humanos,8.0,37.0,3
+21,Onboarding Coordinator,2017-02-01,Recursos Humanos,7.0,91.0,5
+22,Analista de DP,2016-10-01,Financeiro,29.0,62.0,5
+23,Diretora de arte,2017-01-01,Design / Arte,8.0,44.0,3
+24,Engenheiro de Software,2016-08-01,Engenharia,13.0,111.0,3
+25,Costomer Success,2017-01-01,Comercial,8.0,71.0,5
+26,Customer Sucess Analyst,2017-02-01,Comercial,7.0,14.0,2
+27,Estagiária de Customer Success,2017-03-01,Comercial,6.0,30.0,5
+28,Coordenadora de Branding,2017-05-01,Comercial,18.0,54.0,5
+29,Lead Software Developer,2016-10-01,Desenvolvedor / Programador,11.0,149.0,5
+30,Customer Success,2017-03-01,Comercial,6.0,6.0,1
+31,Full Stack Engineer,2016-07-01,Engenharia,14.0,117.0,4
+32,Key Account Manager,2017-07-01,Comercial,9.0,86.0,5
+33,"Lead Product Designer, Partner",2013-10-01,Administrativo,47.0,200.0,5
+34,Product Manager,2016-07-01,Administrativo,14.0,65.0,5
+35,Engenheiro de software sênior,2012-12-01,Engenharia,57.0,178.0,5
+36,Customer Success,2017-03-01,Comercial,6.0,29.0,3
+37,Software Developer,2016-01-01,Desenvolvedor / Programador,20.0,143.0,5
+38,Arquiteto de soluções,2017-03-01,TI,35.0,121.0,4
+39,Business Intelligence and Data Analyst,2016-10-01,Comercial,11.0,105.0,5
+40,Tech Leader,2016-03-01,TI,18.0,51.0,5
+41,Analista financeiro,2017-01-01,Financeiro,30.0,43.0,5
+42,Analista financeiro,2017-07-01,Financeiro,2.0,35.0,3
+43,Analista de controladoria,2016-10-01,Financeiro,11.0,33.0,2
+44,Software Architect,2017-08-01,TI,1.0,32.0,5
+45,Desenvolvedor Júnior,2017-05-01,Desenvolvedor / Programador,10.0,24.0,4
+46,Software Developer,2016-10-01,Desenvolvedor / Programador,11.0,11.0,1
+47,Talent Acquisition,2016-10-01,Recursos Humanos,11.0,54.0,4
+48,Gestora do time de Pessoas - Responsável por R&S e T&D,2017-01-01,Recursos Humanos,22.0,86.0,5
+49,Senior UX Designer,2015-03-01,Design / Arte,30.0,94.0,5
+50,Director of Marketing,2017-01-01,Comercial,8.0,86.0,5
+51,COO,2015-03-01,Administrativo,38.0,76.0,5
+52,Product Growth Manager,2017-07-01,Administrativo,12.0,62.0,5
+53,Creative Designer,2017-01-01,Design / Arte,8.0,40.0,5
+54,Head of Customer Success,2014-04-01,Comercial,44.0,96.0,5
+55,Purchasing Analyst,2017-08-01,Comercial,19.0,40.0,5
+56,Estágio em Marketing CRM,2016-12-01,Comercial,9.0,19.0,3
+57,Coordenadora de CS,2017-03-01,Comercial,6.0,30.0,5
+58,Analista de DP,2017-03-01,Financeiro,6.0,59.0,4
+59,Estagiaria do Financeiro,2016-12-01,Financeiro,9.0,45.0,5
+60,Head of Data Analytics,2017-03-01,TI,58.0,162.0,5
+61,Commercial Analyst,2016-08-01,Comercial,13.0,42.0,4
+62,Head Of Commercial,2017-06-01,Comercial,38.0,63.0,5
+63,Analista de tecnologia da informação,2017-08-01,TI,1.0,53.0,5
+64,Analista Financeiro,2015-03-01,Financeiro,30.0,77.0,5
+65,People Consultant,2017-01-01,Recursos Humanos,42.0,55.0,3
+66,Business Development Manager,2016-11-01,Comercial,14.0,69.0,5
+67,Customer Success,2014-10-01,Comercial,35.0,35.0,1
+68,Head of Trojan Technologies In-Store,2015-11-01,Administrativo,22.0,64.0,5
+69,Trade Marketing,2016-07-01,Comercial,14.0,92.0,5
+70,Sales Operations Analyst,2017-07-01,Comercial,14.0,14.0,3
+71,Estagiária de marketing,2016-11-01,Comercial,10.0,54.0,5
+72,Coordenador de marketing,2015-08-01,Comercial,25.0,80.0,5
+73,Android Developer,2016-10-01,Desenvolvedor / Programador,11.0,12.0,2
+74,Commercial,2017-03-01,Comercial,6.0,84.0,5
+75,Gerente de operações,2017-02-01,Administrativo,7.0,129.0,5
+76,Trade Marketing,2016-10-01,Comercial,11.0,27.0,2
+77,Key Account Manager,2016-03-01,Comercial,18.0,73.0,4
+78,Head of Product Design - UXP,2016-10-01,Administrativo,11.0,168.0,5
+79,Lead Software Developer,2017-02-01,Desenvolvedor / Programador,7.0,155.0,5
+80,Software Test Developer II,2016-10-01,Desenvolvedor / Programador,11.0,51.0,5
+81,Finance Director,2016-10-01,Financeiro,11.0,62.0,5
+82,Desenvolvedor Jr,2017-07-01,Desenvolvedor / Programador,2.0,46.0,5
+83,Desenvolvedor Junior,2017-02-01,Desenvolvedor / Programador,7.0,16.0,3
+84,Desenvolvedor Pleno I,2016-10-01,Desenvolvedor / Programador,11.0,53.0,3
+85,iOS Developer,2017-04-01,Desenvolvedor / Programador,5.0,60.0,4
+86,Software Developer,2016-10-01,Desenvolvedor / Programador,11.0,79.0,5
+87,Desenvolvedora de Software,2016-10-01,Desenvolvedor / Programador,11.0,11.0,1
+88,Software Developer,2016-10-01,Desenvolvedor / Programador,11.0,21.0,3
+89,Time de Expansão Local,2017-03-01,Recursos Humanos,6.0,25.0,3
+90,Data Engineer BI and Data Analyst,2016-03-01,Engenharia,18.0,79.0,5
+91,Especialista em Marketing de Performance,2017-06-01,Comercial,3.0,40.0,5
+92,Analista de Atendimento,2014-08-01,Comercial,54.0,54.0,3
+93,Executivo de vendas,2017-03-01,Administrativo,6.0,203.0,4
+94,Head Of Sales,2017-04-01,Comercial,5.0,126.0,5
+95,Head Of Strategy,2017-08-01,Administrativo,1.0,46.0,5
+96,Business Developer + Product Manager,2017-06-01,Administrativo,3.0,156.0,5
+97,Executivo Comercial Senior,2017-03-01,Administrativo,6.0,143.0,5
+98,Inside Sales,2017-05-01,Comercial,4.0,42.0,5
+99,Gerente Regional Rio de Janeiro,2017-01-01,Administrativo,8.0,260.0,5
+100,Coordenador Comercial,2017-03-01,Comercial,6.0,131.0,5
+101,Gerente comercial Sao Paulo,2017-02-01,Administrativo,7.0,113.0,5
+102,Executiva de Contas,2017-02-01,Administrativo,7.0,108.0,4
+103,Gerente Comercial e Operações Regional Centro-Oeste,2017-01-01,Administrativo,8.0,151.0,5
+104,Sales Executive,2017-03-01,Administrativo,6.0,84.0,5
+105,Software Architect,2017-07-01,TI,2.0,94.0,5
+106,Executivo de vendas,2017-03-01,Administrativo,6.0,84.0,5
+107,Analista de marketing,2017-06-01,Comercial,5.0,25.0,5
+109,Gerente Regional Sul,2017-03-01,Administrativo,6.0,51.0,5
+110,Software Developer,2017-02-01,Desenvolvedor / Programador,7.0,7.0,1
